@@ -1,0 +1,544 @@
+[
+  {
+    "name": "Pyrite Town",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Exterior",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Cail",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "pyrite exterior",
+                "x": 580,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Defeat Dobit",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "pyrite exterior",
+                "x": 400,
+                "y": 450
+              }
+            ]
+          },
+          {
+            "name": "Jail Chest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "pyrite exterior",
+                "x": 560,
+                "y": 510
+              }
+            ]
+          },
+          {
+            "name": "Town Chest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "pyrite exterior",
+                "x": 630,
+                "y": 200
+              }
+            ]
+          },
+          {
+            "name": "Hotel",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "name": "Right Chest",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Center Chest",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Left Chest",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "pyrite exterior",
+                "x": 330,
+                "y": 420
+              }
+            ]
+          },
+          {
+            "name": "Duel Square",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "name": "Defeat Finol",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Defeat Raling",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Defeat Dert",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Defeat Labet",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Defeat Doby",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "pyrite exterior",
+                "x": 420,
+                "y": 370
+              }
+            ]
+          },
+          {
+            "name": "Pyrite Shop",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "name": "Shop Item 1",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 2",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 3",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 4",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 5",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 6",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 7",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 8",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 9",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 10",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 11",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 12",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "pyrite exterior",
+                "x": 440,
+                "y": 460
+              }
+            ]
+          },
+          {
+            "name": "Vending Machine",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "name": "Item 1",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Item 2",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Item 3",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Item 4",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "pyrite exterior",
+                "x": 640,
+                "y": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ONBS",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Rett",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs 1f",
+                "x": 600,
+                "y": 220
+              }
+            ]
+          },
+          {
+            "name": "Defeat Mocor",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs 1f",
+                "x": 920,
+                "y": 320
+              }
+            ]
+          },
+          {
+            "name": "2F Chest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs 2f",
+                "x": 580,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Defeat Torkin",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs 2f",
+                "x": 580,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Defeat Elox",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs 2f",
+                "x": 580,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Defeat Rixor",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs 2f",
+                "x": 580,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Defeat Mesin",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs 2f",
+                "x": 580,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "3F Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs 3f",
+                "x": 580,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "3F Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs 3f",
+                "x": 580,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Defeat Dilly",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs 3f",
+                "x": 580,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Defeat Edlos",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs 3f",
+                "x": 580,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Defeat Lobar",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs 3f",
+                "x": 580,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Defeat Feldas",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs roof",
+                "x": 580,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Defeat Exol",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs 4f",
+                "x": 580,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Unlock - Poke Spots",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "onbs 4f",
+                "x": 580,
+                "y": 600
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

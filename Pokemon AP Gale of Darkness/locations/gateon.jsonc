@@ -1,0 +1,249 @@
+[
+  {
+    "name": "Gateon Port",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Exterior",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Cyle",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "gateon exterior",
+                "x": 800,
+                "y": 300
+              }
+            ]
+          },
+          {
+            "name": "Gateon Port Chest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "gateon exterior",
+                "x": 700,
+                "y": 210
+              }
+            ]
+          },
+          {
+            "name": "Defeat Berk",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "gateon exterior",
+                "x": 840,
+                "y": 380
+              }
+            ]
+          },
+          {
+            "name": "Krabby Klub Basement Chest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "gateon exterior",
+                "x": 880,
+                "y": 360
+              }
+            ]
+          },
+          {
+            "name": "Gateon Tower",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "name": "1F Chest 1",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "1F Chest 2",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "3F Chest",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Defeat Kilen",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "gateon exterior",
+                "x": 635,
+                "y": 210
+              }
+            ]
+          },
+          {
+            "name": "Defeat Bost",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "gateon exterior",
+                "x": 250,
+                "y": 300
+              }
+            ]
+          },
+          {
+            "name": "Defeat Laken",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "gateon exterior",
+                "x": 600,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Gateon Shop",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "name": "Shop Item 1",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 2",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 3",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 4",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 5",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 6",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 7",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 8",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 9",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 10",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 11",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 12",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 13",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 14",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Shop Item 15",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "gateon exterior",
+                "x": 920,
+                "y": 480
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

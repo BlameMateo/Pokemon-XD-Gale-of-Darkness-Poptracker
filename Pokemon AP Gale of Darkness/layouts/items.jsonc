@@ -1,0 +1,94 @@
+{
+  // sets layouts for shared items grids
+  // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+  "key_items": {
+    "type": "itemgrid",
+    "item_margin": "0,2",
+    "item_size": 32,
+    "h_alignment": "center",
+    "rows": [
+      [
+        "machine part",
+        "music disc",
+        "mayor's note",
+        "system lever",
+        "data rom & id card",
+        "scooter upgrade",
+        "robo kyogre part",
+        "master ball"
+      ]
+    ]
+  },
+  "travel": {
+    "type": "itemgrid",
+    "item_margin": "1,1",
+    "item_size": 70,
+    "h_alignment": "center",
+    "rows": [
+      [
+        "travel pokemon hq lab",
+        "travel kaminko's house",
+        "travel gateon port",
+        "travel agate village"
+      ],
+      [
+        "travel mt. battle",
+        "travel cipher lab",
+        "travel pyrite town",
+        "travel poke spots"
+      ],
+      [
+        "travel phenac city",
+        "travel realgam tower",
+        "travel ss libra",
+        "travel outskirt stand"
+      ],
+      [
+        "travel snagem hideout",
+        "travel cipher key lair"
+      ]
+    ]
+  },
+  "tbd": {
+    "type": "itemgrid",
+    "item_margin": "0, -1",
+    "item_size": 25,
+    "h_alignment": "center",
+    "rows": [
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  "settings": {
+    "type": "array",
+    "orientation": "center",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "center",
+        "margin": "10,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "item_size": 65,
+            "h_alignment": "center",
+            "rows": [
+              [
+                "trainer_defeat_mode"
+              ],
+              [
+                "tab_switch",
+                "room_switch",
+                "current_location"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

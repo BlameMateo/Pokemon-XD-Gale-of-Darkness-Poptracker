@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Cipher Lab",
+    "access_rules":[""],
+    "children": 
+    [ 
+      {
+        "name": "Residential Wing 1F",
+        "access_rules":[""],
+        "children": 
+        [
+          {
+            "name": "Player's Room Chest",        
+            "access_rules": "",
+            "visibility_rules": [
+
+            ],
+            "sections":[{
+              "chest_unopened_img": "images/items/route.png",
+              "chest_opened_img": "images/items/route_g.png"}],
+            "map_locations": 
+            [
+                {
+                  "map": "",
+                  "x": 15,
+                  "y": 15
+                }
+              ]
+              
+          }
+        ]    
+      }
+    ]
+  }
+]

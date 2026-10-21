@@ -1,0 +1,870 @@
+{
+  "tracker_horizontal": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Key Items",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "v_alignment": "stretch",
+                "key": "key_items"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Travel Unlocks",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "v_alignment": "stretch",
+                "key": "travel"
+              }
+            }
+          ]
+        },
+        //////////////////////////////////     Maps     //////////////////////////////////////////////////
+        {
+          "type": "dock",
+          "content": [
+            {
+              "type": "tabbed",
+              "dock": "top",
+              "tabs": [
+                {
+                  "title": "Orre Overview",
+                  "content": {
+                    "type": "array",
+                    "content": [
+                      {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "style": "wrap",
+                        "content": [
+                          {
+                            "type": "map",
+                            "maps": [
+                              "overview"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Pokemon HQ Lab",
+                  "content": [
+                    {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Exterior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "pokemon hq exterior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "1F Laboratory Wing",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "1f laboratory wing"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "1F Residential Wing",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "1f residential wing"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "2F Laboratory Wing",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "2f laboratory wing"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "2F Residential Wing",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "2f residential wing"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "Secret Wing",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "secret wing"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Kaminko's House",
+                  "content": [
+                    {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Exterior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "kaminko exterior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "Entrance",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "kaminko entrance"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "Hidden Room",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "kaminko hidden room"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "Basement",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "kaminko basement"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Gateon Port",
+                  "content": [
+                    {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Exterior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "gateon exterior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Agate Village",
+                  "content": [
+                    {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Exterior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "agate exterior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "Relic Cave",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "relic cave"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Mt. Battle",
+                  "content": [
+                    {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Exterior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mt. battle exterior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Cipher Lab",
+                  "content": [
+                    {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Exterior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "cipher lab exterior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Pyrite Town",
+                  "content": [
+                    {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Exterior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "pyrite exterior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "ONBS 1F",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "onbs 1f"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "ONBS 2F",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "onbs 2f"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "ONBS 3F",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "onbs 3f"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "ONBS Roof",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "onbs roof"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "ONBS 4F",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "onbs 4f"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Phenac City",
+                  "content": [
+                    {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Exterior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "phenac exterior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Realgam Tower",
+                  "content": [
+                    {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Exterior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "realgam exterior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "Interior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "realgam interior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "SS Libra",
+                  "content": [
+                    {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Exterior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "ss libra exterior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Outskirt Stand",
+                  "content": [
+                    {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Exterior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "outskirt exterior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Snagem Hideout",
+                  "content": [
+                    {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Exterior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "snagem exterior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Cipher Key Lair",
+                  "content": [
+                    {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Exterior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "cipher key exterior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Citadark Isle",
+                  "content": [
+                    {
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Exterior",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "citadark exterior"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  //////////////////////////////////     Options Thing       /////////////////////////////////////////
+  "settings_popup": {
+    "type": "tabbed",
+    "background": "#000000",
+    "margin": "6, 6",
+    "orientation": "horizontal",
+    "h_alignment": "left",
+    "content": [
+      {
+        "type": "group",
+        "header": "Settings",
+        "dock": "bottom",
+        "background": "#000000",
+        "content": {
+          "type": "layout",
+          "key": "settings"
+        }
+      }
+    ]
+  }
+}

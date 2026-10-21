@@ -1,0 +1,144 @@
+[
+  {
+    "name": "SS Libra",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Exterior",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Push Room 4 Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra exterior",
+                "x": 15,
+                "y": 15
+              }
+            ]
+          },
+          {
+            "name": "Push Room 2 Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra exterior",
+                "x": 15,
+                "y": 15
+              }
+            ]
+          },
+          {
+            "name": "Push Room 2 Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra exterior",
+                "x": 15,
+                "y": 15
+              }
+            ]
+          },
+          {
+            "name": "Push Room 1 Chest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra exterior",
+                "x": 15,
+                "y": 15
+              }
+            ]
+          },
+          {
+            "name": "Push Room 3 Chest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra exterior",
+                "x": 15,
+                "y": 15
+              }
+            ]
+          },
+          {
+            "name": "Push Room 4 Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra exterior",
+                "x": 15,
+                "y": 15
+              }
+            ]
+          },
+          {
+            "name": "Defeat Smarton",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "",
+                "chest_opened_img": ""
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra exterior",
+                "x": 15,
+                "y": 15
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
