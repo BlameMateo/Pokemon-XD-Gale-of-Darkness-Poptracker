@@ -1,0 +1,425 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
+  {
+    "name": "overview",
+    "location_size": 15,
+    "location_border_thickness": 4,
+    "img": "images/maps/Orre.png"
+  },
+  // Pokemon HQ Lab
+  {
+    "name": "pokemon hq exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Pokemon HQ Lab/Exterior.png"
+  },
+  {
+    "name": "1f laboratory wing",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Pokemon HQ Lab/1F Laboratory Wing.png"
+  },
+  {
+    "name": "1f residential wing",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Pokemon HQ Lab/1F Residential Wing.png"
+  },
+  {
+    "name": "2f laboratory wing",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Pokemon HQ Lab/2F Laboratory Wing.png"
+  },
+  {
+    "name": "2f residential wing",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Pokemon HQ Lab/2F Residential Wing.png"
+  },
+  {
+    "name": "secret wing",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Pokemon HQ Lab/Secret Wing.png"
+  },
+  // Kaminko's House
+  {
+    "name": "kaminko exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Kaminko's House/Exterior.png"
+  },
+  {
+    "name": "kaminko entrance",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Kaminko's House/Entrance.png"
+  },
+  {
+    "name": "kaminko hidden room",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Kaminko's House/Hidden Room.png"
+  },
+  {
+    "name": "kaminko basement",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Kaminko's House/Basement.png"
+  },
+  // Gateon Port
+  {
+    "name": "gateon exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Gateon Port/Exterior.png"
+  },
+  // Agate Village
+  {
+    "name": "agate exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Agate Village/Exterior.png"
+  },
+  {
+    "name": "relic cave",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Agate Village/Relic Cave.png"
+  },
+  // Mt. Battle
+  {
+    "name": "mt. battle exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Mt. Battle/Exterior.png"
+  },
+  // Cipher Lab
+  {
+    "name": "cipher lab exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Cipher Lab/Exterior.png"
+  },
+  {
+    "name": "cipher lab west",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Cipher Lab/West.png"
+  },
+  {
+    "name": "cipher lab 1f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Cipher Lab/1F.png"
+  },
+  {
+    "name": "cipher lab b1f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Cipher Lab/B1F.png"
+  },
+  {
+    "name": "cipher lab b1f 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Cipher Lab/B1F 2.png"
+  },
+  {
+    "name": "cipher lab b2f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Cipher Lab/B2F.png"
+  },
+  // Pyrite Town
+  {
+    "name": "pyrite exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Pyrite Town/Exterior.png"
+  },
+  {
+    "name": "onbs 1f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Pyrite Town/ONBS 1F.png"
+  },
+  {
+    "name": "onbs 2f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Pyrite Town/ONBS 2F.png"
+  },
+  {
+    "name": "onbs 3f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Pyrite Town/ONBS 3F.png"
+  },
+  {
+    "name": "onbs roof",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Pyrite Town/ONBS Roof.png"
+  },
+  {
+    "name": "onbs 4f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Pyrite Town/ONBS 4F.png"
+  },
+  // Phenac City
+  {
+    "name": "phenac exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Phenac City/Exterior.png"
+  },
+  // Realgam Tower
+  {
+    "name": "realgam exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Realgam Tower/Exterior.png"
+  },
+  {
+    "name": "realgam interior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Realgam Tower/Interior.png"
+  },
+  // SS Libra
+  {
+    "name": "ss libra exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/SS Libra/Exterior.png"
+  },
+  {
+    "name": "ss libra 1f 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/SS Libra/1F 1.png"
+  },
+  {
+    "name": "ss libra 1f 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/SS Libra/1F 2.png"
+  },
+  {
+    "name": "ss libra 1f 3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/SS Libra/1F 3.png"
+  },
+  {
+    "name": "ss libra 2f 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/SS Libra/2F 1.png"
+  },
+  {
+    "name": "ss libra 2f 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/SS Libra/2F 2.png"
+  },
+  {
+    "name": "ss libra 2f 3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/SS Libra/2F 3.png"
+  },
+  {
+    "name": "ss libra 3f 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/SS Libra/3F 1.png"
+  },
+  {
+    "name": "ss libra 3f 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/SS Libra/3F 2.png"
+  },
+  {
+    "name": "ss libra 4f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/SS Libra/4F.png"
+  },
+  // Outskirt Stand
+  {
+    "name": "outskirt exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Outskirt Stand/Exterior.png"
+  },
+  // Snagem Hideout
+  {
+    "name": "snagem exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Snagem Hideout/Exterior.png"
+  },
+  {
+    "name": "snagem 1f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Snagem Hideout/1F.png"
+  },
+  {
+    "name": "snagem 2f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Snagem Hideout/2F.png"
+  },
+  {
+    "name": "snagem 3f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Snagem Hideout/3F.png"
+  },
+  // Cipher Key Lair
+  {
+    "name": "cipher key exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Cipher Key Lair/Exterior.png"
+  },
+  {
+    "name": "cipher key b1f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Cipher Key Lair/B1F.png"
+  },
+  {
+    "name": "cipher key 1f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Cipher Key Lair/1F.png"
+  },
+  {
+    "name": "cipher key 2f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Cipher Key Lair/2F.png"
+  },
+  {
+    "name": "cipher key 3f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Cipher Key Lair/3F.png"
+  },
+  {
+    "name": "cipher key 4f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Cipher Key Lair/4F.png"
+  },
+  {
+    "name": "cipher key roof",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Cipher Key Lair/Roof.png"
+  },
+  {
+    "name": "cipher key 5f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Cipher Key Lair/5F.png"
+  },
+  // Citadark Isle
+  {
+    "name": "citadark exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/Exterior.png"
+  },
+  {
+    "name": "citadark 1f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/1F.png"
+  },
+  {
+    "name": "citadark b1f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/B1F.png"
+  },
+  {
+    "name": "citadark 2f 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/2F 1.png"
+  },
+  {
+    "name": "citadark 2f 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/2F 2.png"
+  },
+  {
+    "name": "citadark 2f 3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/2F 3.png"
+  },
+  {
+    "name": "citadark 3f 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/3F 1.png"
+  },
+  {
+    "name": "citadark 3f 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/3F 2.png"
+  },
+  {
+    "name": "citadark 4f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/4F.png"
+  },
+  {
+    "name": "citadark 5f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/5F.png"
+  },
+  {
+    "name": "citadark 6f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/6F.png"
+  },
+  {
+    "name": "citadark dome exterior",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/Dome Exterior.png"
+  },
+  {
+    "name": "citadark dome b1f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/Dome B1F.png"
+  },
+  {
+    "name": "citadark dome 1f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/Dome 1F.png"
+  },
+  {
+    "name": "citadark dome 2f",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Citadark Isle/Dome 2F.png"
+  }
+]

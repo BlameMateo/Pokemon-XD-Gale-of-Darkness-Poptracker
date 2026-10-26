@@ -1,0 +1,220 @@
+[
+  {
+    "name": "SS Libra",
+    "access_rules": [
+      "travel ss libra"
+    ],
+    "children": [
+      {
+        "name": "1F 1",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Chest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra 1f 1",
+                "x": 125,
+                "y": 370
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "3F 1",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Smarton",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra 3f 1",
+                "x": 640,
+                "y": 250
+              }
+            ]
+          }
+        ]  
+      },
+      {
+        "name": "2F 2",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra 2f 2",
+                "x": 1020,
+                "y": 350
+              }
+            ]
+          },
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra 2f 2",
+                "x": 1100,
+                "y": 680
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1F 2",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Chest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra 1f 2",
+                "x": 745,
+                "y": 500
+              }
+            ]
+          }
+        ]  
+      },
+      {
+        "name": "1F 3",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra 1f 3",
+                "x": 675,
+                "y": 275
+              }
+            ]
+          },
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra 1f 3",
+                "x": 305,
+                "y": 370
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2F 3",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra 2f 3",
+                "x": 900,
+                "y": 800
+              }
+            ]
+          },
+          {
+            "name": "Bonsly Item Pickup",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "ss libra 2f 3",
+                "x": 550,
+                "y": 550
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

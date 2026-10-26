@@ -1,0 +1,986 @@
+[
+  {
+    "name": "Citadark Isle",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Exterior",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Abson",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark exterior",
+                "x": 590,
+                "y": 480
+              }
+            ]
+          },
+          {
+            "name": "Defeat Kleef",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark exterior",
+                "x": 180,
+                "y": 450
+              }
+            ]
+          },
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark exterior",
+                "x": 245,
+                "y": 190
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Furgy",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 1f",
+                "x": 500,
+                "y": 650
+              }
+            ]
+          },
+          {
+            "name": "Defeat Haben",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 1f",
+                "x": 350,
+                "y": 200
+              }
+            ]
+          },
+          {
+            "name": "Chest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 1f",
+                "x": 680,
+                "y": 340
+              }
+            ]
+          },
+          {
+            "name": "Defeat Golos",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 1f",
+                "x": 830,
+                "y": 370
+              }
+            ]
+          },
+          {
+            "name": "Defeat Jetsal",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 1f",
+                "x": 350,
+                "y": 350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "B1F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Bastil",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark b1f",
+                "x": 290,
+                "y": 520
+              }
+            ]
+          },
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark b1f",
+                "x": 185,
+                "y": 300
+              }
+            ]
+          },
+          {
+            "name": "Defeat Litnar",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark b1f",
+                "x": 670,
+                "y": 140
+              }
+            ]
+          },
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark b1f",
+                "x": 930,
+                "y": 260
+              }
+            ]
+          },
+          {
+            "name": "Chest 3",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark b1f",
+                "x": 395,
+                "y": 70
+              }
+            ]
+          },
+          {
+            "name": "Defeat Grason",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark b1f",
+                "x": 800,
+                "y": 200
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2F 1",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 2f 1",
+                "x": 535,
+                "y": 220
+              }
+            ]
+          },
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 2f 1",
+                "x": 760,
+                "y": 250
+              }
+            ]
+          },
+          {
+            "name": "Defeat Grupel",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 2f 1",
+                "x": 800,
+                "y": 280
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2F 3",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Kimly",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 2f 3",
+                "x": 745,
+                "y": 320
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "3F 1",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Kolest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 3f 1",
+                "x": 40,
+                "y": 270
+              }
+            ]
+          },
+          {
+            "name": "Defeat Kolin",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 3f 1",
+                "x": 115,
+                "y": 225
+              }
+            ]
+          },
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 3f 1",
+                "x": 365,
+                "y": 195
+              }
+            ]
+          },
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 3f 1",
+                "x": 325,
+                "y": 230
+              }
+            ]
+          },
+          {
+            "name": "Defeat Nalix",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 3f 1",
+                "x": 280,
+                "y": 210
+              }
+            ]
+          },
+          {
+            "name": "Defeat Ibran",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 3f 1",
+                "x": 360,
+                "y": 230
+              }
+            ]
+          },
+          {
+            "name": "Defeat Kulig",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 3f 1",
+                "x": 785,
+                "y": 230
+              }
+            ]
+          },
+          {
+            "name": "Defeat Jargo",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 3f 1",
+                "x": 700,
+                "y": 250
+              }
+            ]
+          },
+          {
+            "name": "Chest 3",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 3f 1",
+                "x": 575,
+                "y": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "3F 2",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 3f 2",
+                "x": 667,
+                "y": 337
+              }
+            ]
+          },
+          {
+            "name": "Defeat Karbon",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 3f 2",
+                "x": 450,
+                "y": 90
+              }
+            ]
+          },
+          {
+            "name": "Defeat Petro",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 3f 2",
+                "x": 370,
+                "y": 80
+              }
+            ]
+          },
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 3f 2",
+                "x": 660,
+                "y": 195
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "4F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Jaymi",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 4f",
+                "x": 200,
+                "y": 440
+              }
+            ]
+          },
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 4f",
+                "x": 360,
+                "y": 515
+              }
+            ]
+          },
+          {
+            "name": "Defeat Gromlet",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 4f",
+                "x": 490,
+                "y": 520
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "5F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 5f",
+                "x": 370,
+                "y": 135
+              }
+            ]
+          },
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 5f",
+                "x": 610,
+                "y": 180
+              }
+            ]
+          },
+          {
+            "name": "Chest 3",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 5f",
+                "x": 520,
+                "y": 430
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "6F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Geftal",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 6f",
+                "x": 170,
+                "y": 350
+              }
+            ]
+          },
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 6f",
+                "x": 230,
+                "y": 220
+              }
+            ]
+          },
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 6f",
+                "x": 500,
+                "y": 420
+              }
+            ]
+          },
+          {
+            "name": "Defeat Leden",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark 6f",
+                "x": 590,
+                "y": 350
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dome Exterior",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Ardos",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark dome exterior",
+                "x": 605,
+                "y": 330
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dome B1F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Kolax",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark dome b1f",
+                "x": 665,
+                "y": 185
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dome 1F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Eldes",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark dome 1f",
+                "x": 760,
+                "y": 550
+              }
+            ]
+          },
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark dome 1f",
+                "x": 840,
+                "y": 330
+              }
+            ]
+          },
+          {
+            "name": "Defeat Loket",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark dome 1f",
+                "x": 580,
+                "y": 360
+              }
+            ]
+          },
+          {
+            "name": "Defeat Kaller",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark dome 1f",
+                "x": 315,
+                "y": 425
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dome 2F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Greevil",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "citadark dome 2f",
+                "x": 15,
+                "y": 15
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Cipher Key Lair",
+    "access_rules": [
+      "travel cipher key lair"
+    ],
+    "children": [
+      {
+        "name": "Exterior",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Zook",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key exterior",
+                "x": 650,
+                "y": 530
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "B1F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Kollo",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key b1f",
+                "x": 470,
+                "y": 300
+              }
+            ]
+          },
+          {
+            "name": "Chest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key b1f",
+                "x": 800,
+                "y": 530
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Grezle",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 1f",
+                "x": 700,
+                "y": 480
+              }
+            ]
+          },
+          {
+            "name": "Defeat Humah",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 1f",
+                "x": 830,
+                "y": 250
+              }
+            ]
+          },
+          {
+            "name": "Defeat Ibsol",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 1f",
+                "x": 300,
+                "y": 630
+              }
+            ]
+          },
+          {
+            "name": "Chest 4",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 1f",
+                "x": 270,
+                "y": 200
+              }
+            ]
+          },
+          {
+            "name": "Chest 3",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 1f",
+                "x": 450,
+                "y": 300
+              }
+            ]
+          },
+          {
+            "name": "Defeat Jelstin",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 1f",
+                "x": 920,
+                "y": 670
+              }
+            ]
+          },
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 1f",
+                "x": 890,
+                "y": 610
+              }
+            ]
+          },
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 1f",
+                "x": 800,
+                "y": 660
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 2f",
+                "x": 550,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 2f",
+                "x": 335,
+                "y": 240
+              }
+            ]
+          },
+          {
+            "name": "Defeat Gorog",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 2f",
+                "x": 640,
+                "y": 530
+              }
+            ]
+          },
+          {
+            "name": "Chest 3",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 2f",
+                "x": 710,
+                "y": 450
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "3F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 3f",
+                "x": 220,
+                "y": 280
+              }
+            ]
+          },
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 3f",
+                "x": 840,
+                "y": 330
+              }
+            ]
+          },
+          {
+            "name": "Defeat Lok",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 3f",
+                "x": 430,
+                "y": 800
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "4F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Chest 3",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 4f",
+                "x": 960,
+                "y": 485
+              }
+            ]
+          },
+          {
+            "name": "Defeat Kleto",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 4f",
+                "x": 350,
+                "y": 670
+              }
+            ]
+          },
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 4f",
+                "x": 220,
+                "y": 420
+              }
+            ]
+          },
+          {
+            "name": "Defeat Flipis",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 4f",
+                "x": 280,
+                "y": 250
+              }
+            ]
+          },
+          {
+            "name": "Defeat Targ",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 4f",
+                "x": 700,
+                "y": 270
+              }
+            ]
+          },
+          {
+            "name": "Defeat Hospel",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 4f",
+                "x": 770,
+                "y": 380
+              }
+            ]
+          },
+          {
+            "name": "Defeat Snidle",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 4f",
+                "x": 700,
+                "y": 480
+              }
+            ]
+          },
+          {
+            "name": "Item Pickup",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 4f",
+                "x": 830,
+                "y": 520
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Roof",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Fudler",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key roof",
+                "x": 830,
+                "y": 180
+              }
+            ]
+          },
+          {
+            "name": "Defeat Angic",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key roof",
+                "x": 400,
+                "y": 570
+              }
+            ]
+          },
+          {
+            "name": "Chest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key roof",
+                "x": 740,
+                "y": 210
+              }
+            ]
+          },
+          {
+            "name": "Defeat Acrod",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key roof",
+                "x": 650,
+                "y": 380
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "5F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Gorigan",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher key 5f",
+                "x": 520,
+                "y": 260
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

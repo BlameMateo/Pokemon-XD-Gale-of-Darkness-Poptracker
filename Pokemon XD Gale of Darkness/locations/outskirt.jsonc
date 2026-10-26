@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Outskirt Stand",
+    "access_rules": [
+      "travel outskirt stand"
+    ],
+    "children": [
+      {
+        "name": "Exterior",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Outskirt Stand",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "name": "Defeat Willie",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              },
+              {
+                "name": "Shop Item 1",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              },
+              {
+                "name": "Shop Item 2",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              },
+              {
+                "name": "Shop Item 3",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              },
+              {
+                "name": "Shop Item 4",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              },
+              {
+                "name": "Shop Item 5",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              },
+              {
+                "name": "Shop Item 6",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              },
+              {
+                "name": "Shop Item 7",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              },
+              {
+                "name": "Shop Item 8",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "outskirt exterior",
+                "x": 375,
+                "y": 250
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
