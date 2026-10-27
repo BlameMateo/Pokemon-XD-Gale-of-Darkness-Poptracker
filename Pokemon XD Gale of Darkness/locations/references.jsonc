@@ -21,6 +21,10 @@
             "ref": "Pokemon HQ Lab/Exterior/Defeat Naps/"
           },
           {
+            "name": "Defeat Aferd",
+            "ref": "Pokemon HQ Lab/Exterior/Defeat Aferd/"
+          },
+          {
             "name": "Krane Memo 1",
             "ref": "Pokemon HQ Lab/Exterior/Krane Memo's/Krane Memo 1"
           },
@@ -121,6 +125,10 @@
           {
             "name": "Krabby Klub Basement Chest",
             "ref": "Gateon Port/Exterior/Krabby Klub Basement Chest/"
+          },
+          {
+            "name": "Perr's Machine Part",
+            "ref": "Gateon Port/Exterior/Perr's Machine Part/"
           },
           {
             "name": "Gateon Tower 1F Chest 1",
@@ -570,6 +578,10 @@
           {
             "name": "Defeat Solox",
             "ref": "Cipher Lab/B1F 2/Defeat Solox/"
+          },
+          {
+            "name": "Defeat Naps",
+            "ref": "Cipher Lab/B1F 2/Defeat Naps/"
           },
           {
             "name": "Defeat Digor",

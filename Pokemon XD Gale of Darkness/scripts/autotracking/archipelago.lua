@@ -167,13 +167,13 @@ function onClear(slot_data)
 	PLAYER_ID = Archipelago.PlayerNumber or -1
 	TEAM_NUMBER = Archipelago.TeamNumber or 0
 
-	DATA_STORAGE_ID = "PokemonXD"..TEAM_NUMBER.."_"..PLAYER_ID
+	DATA_STORAGE_ID = "pokemon_xd_room_"..TEAM_NUMBER.."_"..PLAYER_ID
 
 	
 
 	if Archipelago.PlayerNumber>-1 then
 		print("Current slot data is",TEAM_NUMBER,PLAYER_ID)
-		EVENT_ID="PokemonXD"..TEAM_NUMBER.."_"..PLAYER_ID
+		EVENT_ID = DATA_STORAGE_ID
 		print(string.format("SET NOTIFY %s",EVENT_ID))
 		Archipelago:SetNotify({EVENT_ID})
 		Archipelago:Get({EVENT_ID})
@@ -183,15 +183,78 @@ function onClear(slot_data)
 	Tracker:FindObjectForCode("room_switch").CurrentStage = 1
 
 	Tracker:FindObjectForCode("trainer_defeat_mode").CurrentStage = 2
+	Tracker:FindObjectForCode("randomize_travel_locations").CurrentStage = 0
+	Tracker:FindObjectForCode("randomize_shops").CurrentStage = 0
 
 
 	
     if slot_data["trainer_defeat_mode"] then
         if slot_data["trainer_defeat_mode"] == true then
             Tracker:FindObjectForCode("trainer_defeat_mode").CurrentStage = 1
-			
         end
     end
+
+	if slot_data["randomize_travel_locations"] then
+    	if slot_data["randomize_travel_locations"] == true or slot_data["randomize_travel_locations"] == 1 then
+        	Tracker:FindObjectForCode("randomize_travel_locations").Active = true
+    	end
+	end
+
+	local travel_on = slot_data["randomize_travel_locations"] == true
+
+	if not travel_on then
+    	local TRAVEL_DEFAULTS = {
+			"travel mt. battle",
+        	"travel cipher lab",
+        	"travel pyrite town",
+        	"travel poke spots",
+        	"travel phenac city",
+        	"travel realgam tower",
+        	"travel ss libra",
+        	"travel outskirt stand",
+			"travel snagem hideout",
+        	"travel cipher key lair"
+    	}
+    	for _, code in ipairs(TRAVEL_DEFAULTS) do
+        	local obj = Tracker:FindObjectForCode(code)
+        	if obj then
+            	obj.Active = true
+        	end
+    	end
+	end
+
+	if slot_data["randomize_shops"] then
+    	if slot_data["randomize_shops"] == true or slot_data["randomize_shops"] == 1 then
+        	Tracker:FindObjectForCode("randomize_shops").Active = true
+    	end
+	end
+
+	if slot_data["agate_village_pit_stop"] then
+    	if slot_data["agate_village_pit_stop"] == true or slot_data["agate_village_pit_stop"] == 1 then
+        	Tracker:FindObjectForCode("agate_village_pit_stop").Active = true
+    	end
+	end
+
+	function show_agate_shop()
+    	local pit = Tracker:FindObjectForCode("agate_village_pit_stop")
+    	local shops = Tracker:FindObjectForCode("randomize_shops")
+
+    	if not pit or not shops then
+        	return false
+    	end
+
+    	return shops.Active and not pit.Active
+	end
+
+	if slot_data["robo_kyogre_parts_required"] then
+    	ROBO_KYOGRE_REQUIRED = tonumber(slot_data["robo_kyogre_parts_required"])
+	end
+	print("robo kyogre required:", ROBO_KYOGRE_REQUIRED)
+
+	function has_robo_kyogre_parts()
+    	if not ROBO_KYOGRE_REQUIRED then return false end
+    	return Tracker:ProviderCountForCode("robo kyogre part") >= ROBO_KYOGRE_REQUIRED
+	end
 	
 	--print(string.format"Current Garib Sorting Current:", dump_table(GARIB_SORTING_MAPPING[SLOT_DATA["garib_order"]["0"]][1]))
 	--print(string.format"Current Garib Sorting Max:", dump_table(GARIB_SORTING_MAPPING[SLOT_DATA["garib_order"]["1"]][2]))
@@ -387,6 +450,10 @@ end
 function updateTab(value)
 	
 	if value ~= nil then
+		if not TAB_MAPPING[value] then
+    		print("No tab mapping for room", value)
+    		return
+		end
 	    print("updateTab",value)
 		local tabswitch = Tracker:FindObjectForCode("tab_switch")
 		local tabswitch2 = Tracker:FindObjectForCode("room_switch")

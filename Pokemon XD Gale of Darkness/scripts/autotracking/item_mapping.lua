@@ -24,7 +24,6 @@ ITEM_MAPPING = {
 	[BASE_ITEM_ID + 244] = { { "travel phenac city" } },
 	[BASE_ITEM_ID + 246] = { { "travel realgam tower" } },
 	[BASE_ITEM_ID + 247] = { { "travel cipher key lair" } },
-	[BASE_ITEM_ID + 249] = { { "travel kaminko's house" } },
 	[BASE_ITEM_ID + 250] = { { "travel cipher lab" } },
 	[BASE_ITEM_ID + 251] = { { "travel mt. battle" } },
 	[BASE_ITEM_ID + 252] = { { "travel ss libra" } },

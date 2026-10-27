@@ -23,43 +23,43 @@
               },
               {
                 "name": "Shop Item 1",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 2",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 3",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 4",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 5",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 6",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 7",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 8",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               }
             ],
             "map_locations": [

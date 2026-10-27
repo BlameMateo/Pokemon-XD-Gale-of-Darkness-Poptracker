@@ -154,67 +154,67 @@
           {
             "name": "Pyrite Shop",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["randomize_shops"],
             "sections": [
               {
                 "name": "Shop Item 1",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 2",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 3",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 4",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 5",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 6",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 7",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 8",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 9",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 10",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 11",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 12",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               }
             ],
             "map_locations": [
@@ -228,27 +228,27 @@
           {
             "name": "Vending Machine",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["randomize_shops"],
             "sections": [
               {
                 "name": "Item 1",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Item 2",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Item 3",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Item 4",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               }
             ],
             "map_locations": [
@@ -270,7 +270,7 @@
           {
             "name": "Nett",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["randomize_travel_locations"],
             "sections": [
               {
                 "name": "Unlock Poke Spots",

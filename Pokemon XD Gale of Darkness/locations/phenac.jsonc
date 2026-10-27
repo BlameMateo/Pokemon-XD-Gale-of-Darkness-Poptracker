@@ -68,7 +68,7 @@
           {
             "name": "Unlock Realgam Tower",
             "access_rules": [""],
-            "visibility_rules": [],
+            "visibility_rules": ["randomize_travel_locations"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -260,6 +260,7 @@
               },
               {
                 "name": "Unlock SS Libra",
+                "visibility_rules": ["randomize_travel_locations"],
                 "chest_unopened_img": "images/items/.png",
                 "chest_opened_img": "images/items/_g.png"
               }
@@ -332,8 +333,8 @@
             "visibility_rules": [],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Old_man.png",
+                "chest_opened_img": "images/trainers/Old_man_g.png"
               }
             ],
             "map_locations": [
@@ -347,97 +348,97 @@
           {
             "name": "Phenac Shop",
             "access_rules": ["music disc"],
-            "visibility_rules": [],
+            "visibility_rules": ["randomize_shops"],
             "sections": [
               {
                 "name": "Shop Item 1",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 2",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 3",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 4",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 5",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 6",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 7",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 8",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 9",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 10",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 11",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "Shop Item 12",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "2F Shop Item 1",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "2F Shop Item 2",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "2F Shop Item 3",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "2F Shop Item 4",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "2F Shop Item 5",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               },
               {
                 "name": "2F Shop Item 6",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
               }
             ],
             "map_locations": [

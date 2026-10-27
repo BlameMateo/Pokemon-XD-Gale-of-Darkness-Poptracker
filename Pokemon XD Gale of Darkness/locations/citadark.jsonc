@@ -2,7 +2,7 @@
   {
     "name": "Citadark Isle",
     "access_rules": [
-      ""
+      "$has_robo_kyogre_parts"
     ],
     "children": [
       {

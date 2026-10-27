@@ -6,11 +6,6 @@
 BASE_LOCATION_ID = 3820000
 LOCATION_MAPPING = {
 
-    ------ TBD ------
-
-    [BASE_LOCATION_ID + 1420] = {{"@TBD/Exterior/Unlock - Outskirt Stand/"}},
-    [BASE_LOCATION_ID + 1426] = {{"@TBD/Exterior/Unlock - Cipher Key Lair/"}},
-
     ------ Pokemon HQ Lab ------
 
     [BASE_LOCATION_ID + 1485] = {{"@Pokemon HQ Lab/Residential Wing 1F/Player's Room Chest/"}},
@@ -24,6 +19,7 @@ LOCATION_MAPPING = {
     [BASE_LOCATION_ID + 1422] = {{"@Pokemon HQ Lab/Exterior/Unlock Pyrite Town/"}},
 
     [BASE_LOCATION_ID + 1677] = {{"@Pokemon HQ Lab/Exterior/Defeat Naps/"}},
+    [BASE_LOCATION_ID + 1676] = {{"@Pokemon HQ Lab/Exterior/Defeat Aferd/"}},
 
     ------ Kaminko's House ------
 
@@ -38,6 +34,7 @@ LOCATION_MAPPING = {
     [BASE_LOCATION_ID + 1488] = {{"@Gateon Port/Exterior/Gateon Tower/1F Chest 1"}},
     [BASE_LOCATION_ID + 1489] = {{"@Gateon Port/Exterior/Gateon Tower/1F Chest 2"}},
     [BASE_LOCATION_ID + 1490] = {{"@Gateon Port/Exterior/Gateon Tower/3F Chest"}},
+    [BASE_LOCATION_ID + 1884] = {{"@Gateon Port/Exterior/Perr's Machine Part/"}},
 
     [BASE_LOCATION_ID + 1192] = {{"@Gateon Port/Exterior/Defeat Cyle/"}},
     [BASE_LOCATION_ID + 1191] = {{"@Gateon Port/Exterior/Defeat Berk/"}},
@@ -157,6 +154,7 @@ LOCATION_MAPPING = {
     [BASE_LOCATION_ID + 1237] = {{"@Cipher Lab/B1F/Defeat Cabol/"}},
     [BASE_LOCATION_ID + 1238] = {{"@Cipher Lab/B1F/Defeat Nopia/"}},
     [BASE_LOCATION_ID + 1239] = {{"@Cipher Lab/B1F/Defeat Klots/"}},
+    [BASE_LOCATION_ID + 1240] = {{"@Cipher Lab/B1F 2/Defeat Naps/"}},
     [BASE_LOCATION_ID + 1683] = {{"@Cipher Lab/B1F/Defeat Lovrina/"}},
 
     ------ Pyrite Town ------
@@ -304,7 +302,6 @@ LOCATION_MAPPING = {
     ------ Outskirt Stand ------
 
     [BASE_LOCATION_ID + 1657] = {{"@Outskirt Stand/Exterior/Outskirt Stand/Defeat Willie"}},
-    [BASE_LOCATION_ID + 1419] = {{"@Outskirt Stand/Exterior/Outskirt Stand/Unlock Snagem Hideout/"}},
 
     [BASE_LOCATION_ID + 1521] = {{"@Outskirt Stand/Exterior/Outskirt Stand/Shop Item 1"}},
     [BASE_LOCATION_ID + 1522] = {{"@Outskirt Stand/Exterior/Outskirt Stand/Shop Item 2"}},

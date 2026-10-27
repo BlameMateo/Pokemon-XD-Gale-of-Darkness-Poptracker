@@ -392,6 +392,24 @@
                 "y": 360
               }
             ]
+          },
+          {
+            "name": "Defeat Naps",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Naps.png",
+                "chest_opened_img": "images/trainers/Naps_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f 2",
+                "x": 180,
+                "y": 400
+              }
+            ]
           }
         ]
       },
