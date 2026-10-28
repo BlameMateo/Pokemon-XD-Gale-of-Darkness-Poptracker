@@ -1,0 +1,1875 @@
+[
+  {
+    "name": "Pokemon HQ Lab",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Pokemon HQ Lab",
+        "sections": [
+          {
+            "name": "Player's Room Chest",
+            "ref": "Pokemon HQ Lab/Residential Wing 1F/Player's Room Chest/"
+          },
+          {
+            "name": "Outside HQ Chest",
+            "ref": "Pokemon HQ Lab/Exterior/Chest/"
+          },
+          {
+            "name": "Defeat Naps",
+            "ref": "Pokemon HQ Lab/Exterior/Defeat Naps/"
+          },
+          {
+            "name": "Defeat Aferd",
+            "ref": "Pokemon HQ Lab/Exterior/Defeat Aferd/"
+          },
+          {
+            "name": "Krane Memo 1",
+            "ref": "Pokemon HQ Lab/Exterior/Krane Memo's/Krane Memo 1"
+          },
+          {
+            "name": "Krane Memo 2",
+            "ref": "Pokemon HQ Lab/Exterior/Krane Memo's/Krane Memo 2"
+          },
+          {
+            "name": "Krane Memo 3",
+            "ref": "Pokemon HQ Lab/Exterior/Krane Memo's/Krane Memo 3"
+          },
+          {
+            "name": "Krane Memo 4",
+            "ref": "Pokemon HQ Lab/Exterior/Krane Memo's/Krane Memo 4"
+          },
+          {
+            "name": "Krane Memo 5",
+            "ref": "Pokemon HQ Lab/Exterior/Krane Memo's/Krane Memo 5"
+          },
+          {
+            "name": "Master Ball Chest",
+            "ref": "Pokemon HQ Lab/Secret Wing/Master Ball Chest/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "overview",
+            "size": 14,
+            "border_thickness": 3,
+            "x": 125,
+            "y": 90
+          }
+        ]
+      }
+    ]
+  },
+
+  /////////////////////
+  // Kaminko's House //
+  /////////////////////
+
+  {
+    "name": "Kaminko's House",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Kaminko's House",
+        "sections": [
+          {
+            "name": "Defeat Chobin",
+            "ref": "Kaminko's House/Exterior/Defeat Chobin/"
+          },
+          {
+            "name": "Chest",
+            "ref": "Kaminko's House/Basement/Chest/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "overview",
+            "size": 14,
+            "border_thickness": 3,
+            "x": 160,
+            "y": 170
+          }
+        ]
+      }
+    ]
+  },
+
+  /////////////////
+  // Gateon Port //
+  /////////////////
+
+  {
+    "name": "Gateon Port",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Gateon Port",
+        "sections": [
+          {
+            "name": "Defeat Cyle",
+            "ref": "Gateon Port/Exterior/Defeat Cyle/"
+          },
+          {
+            "name": "Gateon Port Chest",
+            "ref": "Gateon Port/Exterior/Gateon Port Chest/"
+          },
+          {
+            "name": "Defeat Berk",
+            "ref": "Gateon Port/Exterior/Defeat Berk/"
+          },
+          {
+            "name": "Krabby Klub Basement Chest",
+            "ref": "Gateon Port/Exterior/Krabby Klub Basement Chest/"
+          },
+          {
+            "name": "Perr's Machine Part",
+            "ref": "Gateon Port/Exterior/Perr's Machine Part/"
+          },
+          {
+            "name": "Gateon Tower 1F Chest 1",
+            "ref": "Gateon Port/Exterior/Gateon Tower/1F Chest 1"
+          },
+          {
+            "name": "Gateon Tower 1F Chest 2",
+            "ref": "Gateon Port/Exterior/Gateon Tower/1F Chest 2"
+          },
+          {
+            "name": "Gateon Tower 3F Chest",
+            "ref": "Gateon Port/Exterior/Gateon Tower/3F Chest"
+          },
+          {
+            "name": "Gateon Tower Defeat Kilen",
+            "ref": "Gateon Port/Exterior/Gateon Tower/Defeat Kilen"
+          },
+          {
+            "name": "Defeat Bost",
+            "ref": "Gateon Port/Exterior/Defeat Bost/"
+          },
+          {
+            "name": "Defeat Laken",
+            "ref": "Gateon Port/Exterior/Defeat Laken/"
+          },
+          {
+            "name": "Gateon Shop Item 1",
+            "ref": "Gateon Port/Exterior/Gateon Shop/Shop Item 1"
+          },
+          {
+            "name": "Gateon Shop Item 2",
+            "ref": "Gateon Port/Exterior/Gateon Shop/Shop Item 2"
+          },
+          {
+            "name": "Gateon Shop Item 3",
+            "ref": "Gateon Port/Exterior/Gateon Shop/Shop Item 3"
+          },
+          {
+            "name": "Gateon Shop Item 4",
+            "ref": "Gateon Port/Exterior/Gateon Shop/Shop Item 4"
+          },
+          {
+            "name": "Gateon Shop Item 5",
+            "ref": "Gateon Port/Exterior/Gateon Shop/Shop Item 5"
+          },
+          {
+            "name": "Gateon Shop Item 6",
+            "ref": "Gateon Port/Exterior/Gateon Shop/Shop Item 6"
+          },
+          {
+            "name": "Gateon Shop Item 7",
+            "ref": "Gateon Port/Exterior/Gateon Shop/Shop Item 7"
+          },
+          {
+            "name": "Gateon Shop Item 8",
+            "ref": "Gateon Port/Exterior/Gateon Shop/Shop Item 8"
+          },
+          {
+            "name": "Gateon Shop Item 9",
+            "ref": "Gateon Port/Exterior/Gateon Shop/Shop Item 9"
+          },
+          {
+            "name": "Gateon Shop Item 10",
+            "ref": "Gateon Port/Exterior/Gateon Shop/Shop Item 10"
+          },
+          {
+            "name": "Gateon Shop Item 11",
+            "ref": "Gateon Port/Exterior/Gateon Shop/Shop Item 11"
+          },
+          {
+            "name": "Gateon Shop Item 12",
+            "ref": "Gateon Port/Exterior/Gateon Shop/Shop Item 12"
+          },
+          {
+            "name": "Gateon Shop Item 14",
+            "ref": "Gateon Port/Exterior/Gateon Shop/Shop Item 14"
+          },
+          {
+            "name": "Gateon Shop Item 15",
+            "ref": "Gateon Port/Exterior/Gateon Shop/Shop Item 15"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "overview",
+            "size": 14,
+            "border_thickness": 3,
+            "x": 85,
+            "y": 155
+          }
+        ]
+      }
+    ]
+  },
+
+  ///////////////////
+  // Agate Village //
+  ///////////////////
+
+  {
+    "name": "Agate Village",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Agate Village",
+        "sections": [
+          {
+            "name": "Bridge Chest",
+            "ref": "Agate Village/Exterior/Bridge Chest/"
+          },
+          {
+            "name": "Cave Chest 1",
+            "ref": "Agate Village/Exterior/Cave/Cave Chest 1"
+          },
+          {
+            "name": "Cave Chest 2",
+            "ref": "Agate Village/Exterior/Cave/Cave Chest 2"
+          },
+          {
+            "name": "Right Side Chest",
+            "ref": "Agate Village/Exterior/Right Side Chest/"
+          },
+          {
+            "name": "Behind Eagun's House Chest",
+            "ref": "Agate Village/Exterior/Behind Eagun's House Chest/"
+          },
+          {
+            "name": "Defeat Belish",
+            "ref": "Agate Village/Exterior/Defeat Belish/"
+          },
+          {
+            "name": "Defeat Dosk",
+            "ref": "Agate Village/Exterior/Defeat Dosk/"
+          },
+          {
+            "name": "Defeat Cida",
+            "ref": "Agate Village/Exterior/Defeat Cida/"
+          },
+          {
+            "name": "Defeat Hebon",
+            "ref": "Agate Village/Exterior/Defeat Hebon/"
+          },
+          {
+            "name": "Defeat Clerr",
+            "ref": "Agate Village/Exterior/Defeat Clerr/"
+          },
+          {
+            "name": "Unlock Mt. Battle",
+            "ref": "Agate Village/Exterior/Unlock Mt. Battle/"
+          },
+          {
+            "name": "Defeat Gorps",
+            "ref": "Agate Village/Relic Cave/Defeat Gorps/"
+          },
+          {
+            "name": "Defeat Jols",
+            "ref": "Agate Village/Relic Cave/Defeat Jols/"
+          },
+          {
+            "name": "Defeat Ladi",
+            "ref": "Agate Village/Relic Cave/Defeat Ladi/"
+          },
+          {
+            "name": "Defeat Cron",
+            "ref": "Agate Village/Relic Cave/Defeat Cron/"
+          },
+          {
+            "name": "Relic Cave Chest",
+            "ref": "Agate Village/Relic Cave/Relic Cave Chest/"
+          },
+          {
+            "name": "Defeat Eagun",
+            "ref": "Agate Village/Relic Cave/Defeat Eagun/"
+          },
+          {
+            "name": "Shop Item 1",
+            "ref": "Agate Village/Exterior/Agate Shop/Shop Item 1"
+          },
+          {
+            "name": "Shop Item 2",
+            "ref": "Agate Village/Exterior/Agate Shop/Shop Item 2"
+          },
+          {
+            "name": "Shop Item 3",
+            "ref": "Agate Village/Exterior/Agate Shop/Shop Item 3"
+          },
+          {
+            "name": "Shop Item 4",
+            "ref": "Agate Village/Exterior/Agate Shop/Shop Item 4"
+          },
+          {
+            "name": "Shop Item 5",
+            "ref": "Agate Village/Exterior/Agate Shop/Shop Item 5"
+          },
+          {
+            "name": "Shop Item 6",
+            "ref": "Agate Village/Exterior/Agate Shop/Shop Item 6"
+          },
+          {
+            "name": "Shop Item 7",
+            "ref": "Agate Village/Exterior/Agate Shop/Shop Item 7"
+          },
+          {
+            "name": "Shop Item 8",
+            "ref": "Agate Village/Exterior/Agate Shop/Shop Item 8"
+          },
+          {
+            "name": "Shop Item 9",
+            "ref": "Agate Village/Exterior/Agate Shop/Shop Item 9"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "overview",
+            "size": 14,
+            "border_thickness": 3,
+            "x": 253,
+            "y": 147
+          }
+        ]
+      }
+    ]
+  },
+
+  ////////////////
+  // Mt. Battle //
+  ////////////////
+
+  {
+    "name": "Mt. Battle",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Mt. Battle",
+        "sections": [
+          {
+            "name": "Chest",
+            "ref": "Mt. Battle/Exterior/Chest/"
+          },
+          {
+            "name": "Defeat Miru",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Story/Defeat Miru"
+          },
+          {
+            "name": "Defeat Cridel",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Story/Defeat Cridel"
+          },
+          {
+            "name": "Defeat Bardo",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Story/Defeat Bardo"
+          },
+          {
+            "name": "Unlock Cipher Lab",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Story/Unlock Cipher Lab"
+          },
+          {
+            "name": "Shop Item 1",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 1"
+          },
+          {
+            "name": "Shop Item 2",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 2"
+          },
+          {
+            "name": "Shop Item 3",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 3"
+          },
+          {
+            "name": "Shop Item 4",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 4"
+          },
+          {
+            "name": "Shop Item 6",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 5"
+          },
+          {
+            "name": "Shop Item 7",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 7"
+          },
+          {
+            "name": "Shop Item 8",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 8"
+          },
+          {
+            "name": "Shop Item 9",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 9"
+          },
+          {
+            "name": "Shop Item 10",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 10"
+          },
+          {
+            "name": "Shop Item 11",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 11"
+          },
+          {
+            "name": "Shop Item 12",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 12"
+          },
+          {
+            "name": "Shop Item 13",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 13"
+          },
+          {
+            "name": "Shop Item 14",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 14"
+          },
+          {
+            "name": "Shop Item 15",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 15"
+          },
+          {
+            "name": "Shop Item 16",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 16"
+          },
+          {
+            "name": "Shop Item 17",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 17"
+          },
+          {
+            "name": "Shop Item 18",
+            "ref": "Mt. Battle/Exterior/Mt. Battle Shop/Shop Item 18"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "overview",
+            "size": 14,
+            "border_thickness": 3,
+            "x": 345,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+
+  ////////////////
+  // Cipher Lab //
+  ////////////////
+
+  {
+    "name": "Cipher Lab",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Cipher Lab",
+        "sections": [
+          {
+            "name": "West Chest 1",
+            "ref": "Cipher Lab/West/Chest 1/"
+          },
+          {
+            "name": "Chest 3",
+            "ref": "Cipher Lab/B1F/Chest 3/"
+          },
+          {
+            "name": "West Chest 2",
+            "ref": "Cipher Lab/West/Chest 2/"
+          },
+          {
+            "name": "Chest 4",
+            "ref": "Cipher Lab/B1F/Chest 4/"
+          },
+          {
+            "name": "Chest 5",
+            "ref": "Cipher Lab/B1F/Chest 5/"
+          },
+          {
+            "name": "Krane Chest",
+            "ref": "Cipher Lab/B1F 2/Krane Chest/"
+          },
+          {
+            "name": "B2F Chest 1",
+            "ref": "Cipher Lab/B2F/Chest 1/"
+          },
+          {
+            "name": "B2F Chest 2",
+            "ref": "Cipher Lab/B2F/Chest 2/"
+          },
+          {
+            "name": "B2F Chest 3",
+            "ref": "Cipher Lab/B2F/Chest 3/"
+          },
+          {
+            "name": "B2F Chest 4",
+            "ref": "Cipher Lab/B2F/Chest 4/"
+          },
+          {
+            "name": "B1F Item Pickup",
+            "ref": "Cipher Lab/B1F/Item Pickup/"
+          },
+          {
+            "name": "Lovrina Defeat Item",
+            "ref": "Cipher Lab/B1F/Lovrina Defeat Item/"
+          },
+          {
+            "name": "Defeat Blusix",
+            "ref": "Cipher Lab/Exterior/The Sixes/Defeat Blusix"
+          },
+          {
+            "name": "Defeat Browsix",
+            "ref": "Cipher Lab/Exterior/The Sixes/Defeat Browsix"
+          },
+          {
+            "name": "Defeat Greesix",
+            "ref": "Cipher Lab/Exterior/The Sixes/Defeat Greesix"
+          },
+          {
+            "name": "Defeat Purpsix",
+            "ref": "Cipher Lab/Exterior/The Sixes/Defeat Purpsix"
+          },
+          {
+            "name": "Defeat Resix",
+            "ref": "Cipher Lab/Exterior/The Sixes/Defeat Resix"
+          },
+          {
+            "name": "Defeat Yellosix",
+            "ref": "Cipher Lab/Exterior/The Sixes/Defeat Yellosix"
+          },
+          {
+            "name": "Defeat Corla",
+            "ref": "Cipher Lab/1F/Defeat Corla/"
+          },
+          {
+            "name": "Defeat Javion",
+            "ref": "Cipher Lab/B1F/Defeat Javion/"
+          },
+          {
+            "name": "Defeat Tekot",
+            "ref": "Cipher Lab/B1F/Defeat Tekot/"
+          },
+          {
+            "name": "Defeat Mesak",
+            "ref": "Cipher Lab/B2F/Defeat Mesak/"
+          },
+          {
+            "name": "Defeat Nexir",
+            "ref": "Cipher Lab/B2F/Defeat Nexir/"
+          },
+          {
+            "name": "Defeat Solox",
+            "ref": "Cipher Lab/B1F 2/Defeat Solox/"
+          },
+          {
+            "name": "Defeat Naps",
+            "ref": "Cipher Lab/B1F 2/Defeat Naps/"
+          },
+          {
+            "name": "Defeat Digor",
+            "ref": "Cipher Lab/B1F/Defeat Digor/"
+          },
+          {
+            "name": "Defeat Crink",
+            "ref": "Cipher Lab/B2F/Defeat Crink/"
+          },
+          {
+            "name": "Defeat Morbit",
+            "ref": "Cipher Lab/B2F/Defeat Morbit/"
+          },
+          {
+            "name": "Defeat Meda",
+            "ref": "Cipher Lab/B2F/Defeat Meda/"
+          },
+          {
+            "name": "Defeat Elrok",
+            "ref": "Cipher Lab/B2F/Southwest Room/Defeat Elrok"
+          },
+          {
+            "name": "Defeat Coffy",
+            "ref": "Cipher Lab/B2F/Southwest Room/Defeat Coffy"
+          },
+          {
+            "name": "Defeat Cabol",
+            "ref": "Cipher Lab/B1F/Defeat Cabol/"
+          },
+          {
+            "name": "Defeat Nopia",
+            "ref": "Cipher Lab/B1F/Defeat Nopia/"
+          },
+          {
+            "name": "Defeat Klots",
+            "ref": "Cipher Lab/B1F/Defeat Klots/"
+          },
+          {
+            "name": "Defeat Lovrina",
+            "ref": "Cipher Lab/B1F/Defeat Lovrina/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "overview",
+            "size": 14,
+            "border_thickness": 3,
+            "x": 360,
+            "y": 210
+          }
+        ]
+      }
+    ]
+  },
+
+  /////////////////
+  // Pyrite Town //
+  /////////////////
+
+  {
+    "name": "Pyrite Town",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Pyrite Town",
+        "sections": [
+          {
+            "name": "Jail Chest",
+            "ref": "Pyrite Town/Exterior/Jail Chest/"
+          },
+          {
+            "name": "Town Chest",
+            "ref": "Pyrite Town/Exterior/Town Chest/"
+          },
+          {
+            "name": "Right Chest",
+            "ref": "Pyrite Town/Exterior/Hotel/Right Chest"
+          },
+          {
+            "name": "Center Chest",
+            "ref": "Pyrite Town/Exterior/Hotel/Center Chest"
+          },
+          {
+            "name": "Left Chest",
+            "ref": "Pyrite Town/Exterior/Hotel/Left Chest"
+          },
+          {
+            "name": "Defeat Cail",
+            "ref": "Pyrite Town/Exterior/Defeat Cail/"
+          },
+          {
+            "name": "Defeat Dobit",
+            "ref": "Pyrite Town/Exterior/Defeat Dobit/"
+          },
+          {
+            "name": "Defeat Finol",
+            "ref": "Pyrite Town/Exterior/Duel Square/Defeat Finol"
+          },
+          {
+            "name": "Defeat Raling",
+            "ref": "Pyrite Town/Exterior/Duel Square/Defeat Raling"
+          },
+          {
+            "name": "Defeat Dert",
+            "ref": "Pyrite Town/Exterior/Duel Square/Defeat Dert"
+          },
+          {
+            "name": "Defeat Labet",
+            "ref": "Pyrite Town/Exterior/Duel Square/Defeat Labet"
+          },
+          {
+            "name": "Defeat Doby",
+            "ref": "Pyrite Town/Exterior/Duel Square/Defeat Doby"
+          },
+          {
+            "name": "ONBS Unlock Poke Spots",
+            "ref": "Pyrite Town/ONBS 4F/Nett/Unlock Poke Spots/"
+          },
+          {
+            "name": "ONBS Unlock Phenac City",
+            "ref": "Pyrite Town/ONBS 4F/Nett/Unlock Poke Spots/"
+          },
+          {
+            "name": "ONBS 3F Chest 1",
+            "ref": "Pyrite Town/ONBS 3F/Chest 1/"
+          },
+          {
+            "name": "ONBS 3F Chest 2",
+            "ref": "Pyrite Town/ONBS 3F/Chest 2/"
+          },
+          {
+            "name": "ONBS 2F Chest",
+            "ref": "Pyrite Town/ONBS 2F/Chest/"
+          },
+          {
+            "name": "ONBS Defeat Rett",
+            "ref": "Pyrite Town/ONBS 1F/Defeat Rett/"
+          },
+          {
+            "name": "ONBS Defeat Mocor",
+            "ref": "Pyrite Town/ONBS 1F/Defeat Mocor/"
+          },
+          {
+            "name": "ONBS Defeat Torkin",
+            "ref": "Pyrite Town/ONBS 2F/Defeat Torkin/"
+          },
+          {
+            "name": "ONBS Defeat Elox",
+            "ref": "Pyrite Town/ONBS 2F/Defeat Elox/"
+          },
+          {
+            "name": "ONBS Defeat Rixor",
+            "ref": "Pyrite Town/ONBS 2F/Defeat Rixor/"
+          },
+          {
+            "name": "ONBS Defeat Mesin",
+            "ref": "Pyrite Town/ONBS 2F/Defeat Mesin/"
+          },
+          {
+            "name": "ONBS Defeat Dilly",
+            "ref": "Pyrite Town/ONBS 3F/Defeat Dilly/"
+          },
+          {
+            "name": "ONBS Defeat Edlos",
+            "ref": "Pyrite Town/ONBS 3F/Defeat Edlos/"
+          },
+          {
+            "name": "ONBS Defeat Lobar",
+            "ref": "Pyrite Town/ONBS 3F/Defeat Lobar/"
+          },
+          {
+            "name": "ONBS Defeat Feldas",
+            "ref": "Pyrite Town/ONBS Roof/Defeat Feldas/"
+          },
+          {
+            "name": "ONBS Defeat Exol",
+            "ref": "Pyrite Town/ONBS 4F/Defeat Exol/"
+          },
+          {
+            "name": "Shop Item 1",
+            "ref": "Pyrite Town/Exterior/Pyrite Shop/Shop Item 1"
+          },
+          {
+            "name": "Shop Item 2",
+            "ref": "Pyrite Town/Exterior/Pyrite Shop/Shop Item 2"
+          },
+          {
+            "name": "Shop Item 3",
+            "ref": "Pyrite Town/Exterior/Pyrite Shop/Shop Item 3"
+          },
+          {
+            "name": "Shop Item 4",
+            "ref": "Pyrite Town/Exterior/Pyrite Shop/Shop Item 4"
+          },
+          {
+            "name": "Shop Item 5",
+            "ref": "Pyrite Town/Exterior/Pyrite Shop/Shop Item 5"
+          },
+          {
+            "name": "Shop Item 6",
+            "ref": "Pyrite Town/Exterior/Pyrite Shop/Shop Item 6"
+          },
+          {
+            "name": "Shop Item 7",
+            "ref": "Pyrite Town/Exterior/Pyrite Shop/Shop Item 7"
+          },
+          {
+            "name": "Shop Item 8",
+            "ref": "Pyrite Town/Exterior/Pyrite Shop/Shop Item 8"
+          },
+          {
+            "name": "Shop Item 9",
+            "ref": "Pyrite Town/Exterior/Pyrite Shop/Shop Item 9"
+          },
+          {
+            "name": "Shop Item 10",
+            "ref": "Pyrite Town/Exterior/Pyrite Shop/Shop Item 10"
+          },
+          {
+            "name": "Shop Item 11",
+            "ref": "Pyrite Town/Exterior/Pyrite Shop/Shop Item 11"
+          },
+          {
+            "name": "Shop Item 12",
+            "ref": "Pyrite Town/Exterior/Pyrite Shop/Shop Item 12"
+          },
+          {
+            "name": "Vending Machine Item 1",
+            "ref": "Pyrite Town/Exterior/Vending Machine/Item 1"
+          },
+          {
+            "name": "Vending Machine Item 2",
+            "ref": "Pyrite Town/Exterior/Vending Machine/Item 2"
+          },
+          {
+            "name": "Vending Machine Item 3",
+            "ref": "Pyrite Town/Exterior/Vending Machine/Item 3"
+          },
+          {
+            "name": "Vending Machine Item 4",
+            "ref": "Pyrite Town/Exterior/Vending Machine/Item 4"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "overview",
+            "size": 14,
+            "border_thickness": 3,
+            "x": 210,
+            "y": 280
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ONBS",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "ONBS",
+        "sections": [
+          {
+            "name": "ONBS Unlock Poke Spots",
+            "ref": "Pyrite Town/ONBS 4F/Nett/Unlock Poke Spots"
+          },
+          {
+            "name": "ONBS Unlock Phenac City",
+            "ref": "Pyrite Town/ONBS 4F/Nett/Unlock Poke Spots"
+          },
+          {
+            "name": "ONBS 3F Chest 1",
+            "ref": "Pyrite Town/ONBS 3F/Chest 1/"
+          },
+          {
+            "name": "ONBS 3F Chest 2",
+            "ref": "Pyrite Town/ONBS 3F/Chest 2/"
+          },
+          {
+            "name": "ONBS 2F Chest",
+            "ref": "Pyrite Town/ONBS 2F/Chest/"
+          },
+          {
+            "name": "ONBS Defeat Rett",
+            "ref": "Pyrite Town/ONBS 1F/Defeat Rett/"
+          },
+          {
+            "name": "ONBS Defeat Mocor",
+            "ref": "Pyrite Town/ONBS 1F/Defeat Mocor/"
+          },
+          {
+            "name": "ONBS Defeat Torkin",
+            "ref": "Pyrite Town/ONBS 2F/Defeat Torkin/"
+          },
+          {
+            "name": "ONBS Defeat Elox",
+            "ref": "Pyrite Town/ONBS 2F/Defeat Elox/"
+          },
+          {
+            "name": "ONBS Defeat Rixor",
+            "ref": "Pyrite Town/ONBS 2F/Defeat Rixor/"
+          },
+          {
+            "name": "ONBS Defeat Mesin",
+            "ref": "Pyrite Town/ONBS 2F/Defeat Mesin/"
+          },
+          {
+            "name": "ONBS Defeat Dilly",
+            "ref": "Pyrite Town/ONBS 3F/Defeat Dilly/"
+          },
+          {
+            "name": "ONBS Defeat Edlos",
+            "ref": "Pyrite Town/ONBS 3F/Defeat Edlos/"
+          },
+          {
+            "name": "ONBS Defeat Lobar",
+            "ref": "Pyrite Town/ONBS 3F/Defeat Lobar/"
+          },
+          {
+            "name": "ONBS Defeat Feldas",
+            "ref": "Pyrite Town/ONBS Roof/Defeat Feldas/"
+          },
+          {
+            "name": "ONBS Defeat Exol",
+            "ref": "Pyrite Town/ONBS 4F/Defeat Exol/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "pyrite exterior",
+            "size": 18,
+            "border_thickness": 4,
+            "x": 600,
+            "y": 300
+          }
+        ]
+      }
+    ]
+  },
+
+  ////////////////
+  // Poke Spots //
+  ////////////////
+
+  {
+    "name": "Cave Poke Spot",
+    "access_rules": [
+      "$can_access_poke_spots"
+    ],
+    "children": [
+      {
+        "name": "Exterior",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Cave Poke Spot",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "name": "Defeat Miror B.",
+                "chest_unopened_img": "images/trainers/",
+                "chest_opened_img": "images/trainers/"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "overview",
+                "size": 14,
+                "border_thickness": 3,
+                "x": 368,
+                "y": 150
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  /////////////////
+  // Phenac City //
+  /////////////////
+
+  {
+    "name": "Phenac City",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Phenac City",
+        "sections": [
+          {
+            "name": "Chest 1",
+            "ref": "Phenac City/Exterior/Chest 1/"
+          },
+          {
+            "name": "Chest 2",
+            "ref": "Phenac City/Exterior/Chest 2/"
+          },
+          {
+            "name": "Music Disc Pickup",
+            "ref": "Phenac City/Exterior/Music Disc Pickup/"
+          },
+          {
+            "name": "Mayor's House Item Pickup",
+            "ref": "Phenac City/Exterior/Mayor's House/Item Pickup"
+          },
+          {
+            "name": "Unlock Realgam Tower",
+            "ref": "Phenac City/Exterior/Unlock Realgam Tower/"
+          },
+          {
+            "name": "Defeat Exinn",
+            "ref": "Phenac City/Exterior/Mayor's House/Defeat Exinn"
+          },
+          {
+            "name": "Defeat Gonrag",
+            "ref": "Phenac City/Exterior/Mayor's House/Defeat Gonrag"
+          },
+          {
+            "name": "Defeat Ertlig",
+            "ref": "Phenac City/Exterior/Defeat Ertlig/"
+          },
+          {
+            "name": "Defeat Greck",
+            "ref": "Phenac City/Exterior/Defeat Greck/"
+          },
+          {
+            "name": "Defeat Forgs",
+            "ref": "Phenac City/Exterior/Defeat Forgs/"
+          },
+          {
+            "name": "Defeat Pellim",
+            "ref": "Phenac City/Exterior/Defeat Pellim/"
+          },
+          {
+            "name": "Defeat Fenton",
+            "ref": "Phenac City/Exterior/Defeat Fenton/"
+          },
+          {
+            "name": "Defeat Ezoor",
+            "ref": "Phenac City/Exterior/Defeat Ezoor/"
+          },
+          {
+            "name": "Defeat Kapen",
+            "ref": "Phenac City/Exterior/Defeat Kapen/"
+          },
+          {
+            "name": "Defeat Eloin",
+            "ref": "Phenac City/Exterior/Prestige Precept Center/Defeat Eloin"
+          },
+          {
+            "name": "Defeat Fasin",
+            "ref": "Phenac City/Exterior/Prestige Precept Center/Defeat Fasin"
+          },
+          {
+            "name": "Defeat Fostin",
+            "ref": "Phenac City/Exterior/Prestige Precept Center/Defeat Fostin"
+          },
+          {
+            "name": "Defeat Quelor",
+            "ref": "Phenac City/Exterior/Prestige Precept Center/Defeat Quelor"
+          },
+          {
+            "name": "Defeat Teslor",
+            "ref": "Phenac City/Exterior/Prestige Precept Center/Defeat Teslor"
+          },
+          {
+            "name": "Defeat Nopel",
+            "ref": "Phenac City/Exterior/Prestige Precept Center/Defeat Nopel"
+          },
+          {
+            "name": "Defeat Kalus",
+            "ref": "Phenac City/Exterior/Prestige Precept Center/Defeat Kalus"
+          },
+          {
+            "name": "Defeat Justy",
+            "ref": "Phenac City/Exterior/Prestige Precept Center/Defeat Justy"
+          },
+          {
+            "name": "Unlock SS Libra",
+            "ref": "Phenac City/Exterior/Prestige Precept Center/Unlock SS Libra"
+          },
+          {
+            "name": "Defeat Eroll",
+            "ref": "Phenac City/Exterior/Defeat Eroll/"
+          },
+          {
+            "name": "Defeat Ezin",
+            "ref": "Phenac City/Exterior/Colosseum/Defeat Ezin"
+          },
+          {
+            "name": "Defeat Faltly",
+            "ref": "Phenac City/Exterior/Colosseum/Defeat Faltly"
+          },
+          {
+            "name": "Defeat Egrog",
+            "ref": "Phenac City/Exterior/Colosseum/Defeat Egrog"
+          },
+          {
+            "name": "Defeat Snattle",
+            "ref": "Phenac City/Exterior/Colosseum/Defeat Snattle"
+          },
+          {
+            "name": "Defeat Equin",
+            "ref": "Phenac City/Exterior/Colosseum/Defeat Equin"
+          },
+          {
+            "name": "Colosseum Chest 1",
+            "ref": "Phenac City/Exterior/Colosseum/Colosseum Chest 1"
+          },
+          {
+            "name": "Colosseum Chest 2",
+            "ref": "Phenac City/Exterior/Colosseum/Colosseum Chest 2"
+          },
+          {
+            "name": "Colosseum Chest 3",
+            "ref": "Phenac City/Exterior/Colosseum/Colosseum Chest 3"
+          },
+          {
+            "name": "Shop Item 1",
+            "ref": "Phenac City/Exterior/Phenac Shop/Shop Item 1"
+          },
+          {
+            "name": "Shop Item 2",
+            "ref": "Phenac City/Exterior/Phenac Shop/Shop Item 2"
+          },
+          {
+            "name": "Shop Item 3",
+            "ref": "Phenac City/Exterior/Phenac Shop/Shop Item 3"
+          },
+          {
+            "name": "Shop Item 4",
+            "ref": "Phenac City/Exterior/Phenac Shop/Shop Item 4"
+          },
+          {
+            "name": "Shop Item 5",
+            "ref": "Phenac City/Exterior/Phenac Shop/Shop Item 5"
+          },
+          {
+            "name": "Shop Item 6",
+            "ref": "Phenac City/Exterior/Phenac Shop/Shop Item 6"
+          },
+          {
+            "name": "Shop Item 7",
+            "ref": "Phenac City/Exterior/Phenac Shop/Shop Item 7"
+          },
+          {
+            "name": "Shop Item 8",
+            "ref": "Phenac City/Exterior/Phenac Shop/Shop Item 8"
+          },
+          {
+            "name": "Shop Item 9",
+            "ref": "Phenac City/Exterior/Phenac Shop/Shop Item 9"
+          },
+          {
+            "name": "Shop Item 10",
+            "ref": "Phenac City/Exterior/Phenac Shop/Shop Item 10"
+          },
+          {
+            "name": "Shop Item 11",
+            "ref": "Phenac City/Exterior/Phenac Shop/Shop Item 11"
+          },
+          {
+            "name": "Shop Item 12",
+            "ref": "Phenac City/Exterior/Phenac Shop/Shop Item 12"
+          },
+          {
+            "name": "2F Shop Item 1",
+            "ref": "Phenac City/Exterior/Phenac Shop/2F Shop Item 1"
+          },
+          {
+            "name": "2F Shop Item 2",
+            "ref": "Phenac City/Exterior/Phenac Shop/2F Shop Item 2"
+          },
+          {
+            "name": "2F Shop Item 3",
+            "ref": "Phenac City/Exterior/Phenac Shop/2F Shop Item 3"
+          },
+          {
+            "name": "2F Shop Item 4",
+            "ref": "Phenac City/Exterior/Phenac Shop/2F Shop Item 4"
+          },
+          {
+            "name": "2F Shop Item 5",
+            "ref": "Phenac City/Exterior/Phenac Shop/2F Shop Item 5"
+          },
+          {
+            "name": "2F Shop Item 6",
+            "ref": "Phenac City/Exterior/Phenac Shop/2F Shop Item 6"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "overview",
+            "size": 14,
+            "border_thickness": 3,
+            "x": 470,
+            "y": 290
+          }
+        ]
+      }
+    ]
+  },
+
+  ///////////////////
+  // Realgam Tower //
+  ///////////////////
+
+  {
+    "name": "Realgam Tower",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Realgam Tower",
+        "sections": [
+          {
+            "name": "Chest",
+            "ref": "Realgam Tower/Exterior/Chest/"
+          },
+          {
+            "name": "Crossroads Chest",
+            "ref": "Realgam Tower/Interior/Crossroads Chest/"
+          },
+          {
+            "name": "Main Hall Chest",
+            "ref": "Realgam Tower/Interior/Main Hall Chest/"
+          },
+          {
+            "name": "Shop Item 1",
+            "ref": "Realgam Tower/Interior/Realgam Shop/Shop Item 1"
+          },
+          {
+            "name": "Shop Item 2",
+            "ref": "Realgam Tower/Interior/Realgam Shop/Shop Item 2"
+          },
+          {
+            "name": "Shop Item 3",
+            "ref": "Realgam Tower/Interior/Realgam Shop/Shop Item 3"
+          },
+          {
+            "name": "Shop Item 4",
+            "ref": "Realgam Tower/Interior/Realgam Shop/Shop Item 4"
+          },
+          {
+            "name": "Shop Item 5",
+            "ref": "Realgam Tower/Interior/Realgam Shop/Shop Item 5"
+          },
+          {
+            "name": "Shop Item 6",
+            "ref": "Realgam Tower/Interior/Realgam Shop/Shop Item 6"
+          },
+          {
+            "name": "Shop Item 7",
+            "ref": "Realgam Tower/Interior/Realgam Shop/Shop Item 7"
+          },
+          {
+            "name": "Shop Item 8",
+            "ref": "Realgam Tower/Interior/Realgam Shop/Shop Item 8"
+          },
+          {
+            "name": "Shop Item 9",
+            "ref": "Realgam Tower/Interior/Realgam Shop/Shop Item 9"
+          },
+          {
+            "name": "Shop Item 10",
+            "ref": "Realgam Tower/Interior/Realgam Shop/Shop Item 10"
+          },
+          {
+            "name": "Shop Item 11",
+            "ref": "Realgam Tower/Interior/Realgam Shop/Shop Item 11"
+          },
+          {
+            "name": "Shop Item 12",
+            "ref": "Realgam Tower/Interior/Realgam Shop/Shop Item 12"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "overview",
+            "size": 14,
+            "border_thickness": 3,
+            "x": 380,
+            "y": 260
+          }
+        ]
+      }
+    ]
+  },
+
+  //////////////
+  // SS Libra //
+  //////////////
+
+  {
+    "name": "SS Libra",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "SS Libra",
+        "sections": [
+          {
+            "name": "1F 3 Chest 1",
+            "ref": "SS Libra/1F 3/Chest 1/"
+          },
+          {
+            "name": "2F 2 Chest 1",
+            "ref": "SS Libra/2F 2/Chest 1/"
+          },
+          {
+            "name": "2F 2 Chest 2",
+            "ref": "SS Libra/2F 2/Chest 2/"
+          },
+          {
+            "name": "1F 1 Chest",
+            "ref": "SS Libra/1F 1/Chest/"
+          },
+          {
+            "name": "1F 2 Chest",
+            "ref": "SS Libra/1F 2/Chest/"
+          },
+          {
+            "name": "1F 3 Chest 2",
+            "ref": "SS Libra/1F 3/Chest 2/"
+          },
+          {
+            "name": "Bonsly Item Pickup",
+            "ref": "SS Libra/2F 3/Bonsly Item Pickup/"
+          },
+          {
+            "name": "2F 3 Chest",
+            "ref": "SS Libra/2F 3/Chest/"
+          },
+          {
+            "name": "Defeat Smarton",
+            "ref": "SS Libra/3F 1/Defeat Smarton/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "overview",
+            "size": 14,
+            "border_thickness": 3,
+            "x": 468,
+            "y": 225
+          }
+        ]
+      }
+    ]
+  },
+
+  ////////////////////
+  // Outskirt Stand //
+  ////////////////////
+
+  {
+    "name": "Outskirt Stand",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Outskirt Stand",
+        "sections": [
+          {
+            "name": "Defeat Willie",
+            "ref": "Outskirt Stand/Exterior/Outskirt Stand/Defeat Willie"
+          },
+          {
+            "name": "Shop Item 1",
+            "ref": "Outskirt Stand/Exterior/Outskirt Stand/Shop Item 1"
+          },
+          {
+            "name": "Shop Item 2",
+            "ref": "Outskirt Stand/Exterior/Outskirt Stand/Shop Item 2"
+          },
+          {
+            "name": "Shop Item 3",
+            "ref": "Outskirt Stand/Exterior/Outskirt Stand/Shop Item 3"
+          },
+          {
+            "name": "Shop Item 4",
+            "ref": "Outskirt Stand/Exterior/Outskirt Stand/Shop Item 4"
+          },
+          {
+            "name": "Shop Item 5",
+            "ref": "Outskirt Stand/Exterior/Outskirt Stand/Shop Item 5"
+          },
+          {
+            "name": "Shop Item 6",
+            "ref": "Outskirt Stand/Exterior/Outskirt Stand/Shop Item 6"
+          },
+          {
+            "name": "Shop Item 7",
+            "ref": "Outskirt Stand/Exterior/Outskirt Stand/Shop Item 7"
+          },
+          {
+            "name": "Shop Item 8",
+            "ref": "Outskirt Stand/Exterior/Outskirt Stand/Shop Item 8"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "overview",
+            "size": 14,
+            "border_thickness": 3,
+            "x": 565,
+            "y": 280
+          }
+        ]
+      }
+    ]
+  },
+
+  ////////////////////
+  // Snagem Hideout //
+  ////////////////////
+
+  {
+    "name": "Snagem Hideout",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Snagem Hideout",
+        "sections": [
+          {
+            "name": "1F Chest 1",
+            "ref": "Snagem Hideout/1F/Chest 1/"
+          },
+          {
+            "name": "1F Chest 2",
+            "ref": "Snagem Hideout/1F/Chest 2/"
+          },
+          {
+            "name": "Gonzap Room Chest",
+            "ref": "Snagem Hideout/1F/Gonzap Room Chest/"
+          },
+          {
+            "name": "2F Chest 2",
+            "ref": "Snagem Hideout/2F/Chest 2/"
+          },
+          {
+            "name": "2F Chest 1",
+            "ref": "Snagem Hideout/2F/Chest 1/"
+          },
+          {
+            "name": "3F Chest 1",
+            "ref": "Snagem Hideout/3F/Chest 1/"
+          },
+          {
+            "name": "3F Chest 2",
+            "ref": "Snagem Hideout/3F/Chest 2/"
+          },
+          {
+            "name": "Defeat Agrev",
+            "ref": "Snagem Hideout/1F/Defeat Agrev/"
+          },
+          {
+            "name": "Defeat Jedo",
+            "ref": "Snagem Hideout/2F/Defeat Jedo/"
+          },
+          {
+            "name": "Defeat Hobble",
+            "ref": "Snagem Hideout/3F/Defeat Hobble/"
+          },
+          {
+            "name": "Defeat Golit",
+            "ref": "Snagem Hideout/3F/Defeat Golit/"
+          },
+          {
+            "name": "Defeat Jinok",
+            "ref": "Snagem Hideout/3F/Defeat Jinok/"
+          },
+          {
+            "name": "Defeat Gaply",
+            "ref": "Snagem Hideout/2F/Defeat Gaply/"
+          },
+          {
+            "name": "Defeat Fudlo",
+            "ref": "Snagem Hideout/2F/Defeat Fudlo/"
+          },
+          {
+            "name": "Defeat Biden",
+            "ref": "Snagem Hideout/1F/Defeat Biden/"
+          },
+          {
+            "name": "Defeat Wakin",
+            "ref": "Snagem Hideout/2F/Defeat Wakin/"
+          },
+          {
+            "name": "Defeat Gonzap",
+            "ref": "Snagem Hideout/Exterior/Defeat Gonzap/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "overview",
+            "size": 14,
+            "border_thickness": 3,
+            "x": 545,
+            "y": 180
+          }
+        ]
+      }
+    ]
+  },
+
+  /////////////////////
+  // Cipher Key Lair //
+  /////////////////////
+
+  {
+    "name": "Cipher Key Lair",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Cipher Key Lair",
+        "sections": [
+          {
+            "name": "4F Item Pickup",
+            "ref": "Cipher Key Lair/4F/Item Pickup/"
+          },
+          {
+            "name": "1F Chest 1",
+            "ref": "Cipher Key Lair/1F/Chest 1/"
+          },
+          {
+            "name": "1F Chest 2",
+            "ref": "Cipher Key Lair/1F/Chest 2/"
+          },
+          {
+            "name": "2F Chest 1",
+            "ref": "Cipher Key Lair/2F/Chest 1/"
+          },
+          {
+            "name": "2F Chest 2",
+            "ref": "Cipher Key Lair/2F/Chest 2/"
+          },
+          {
+            "name": "3F Chest 1",
+            "ref": "Cipher Key Lair/3F/Chest 1/"
+          },
+          {
+            "name": "Roof Chest",
+            "ref": "Cipher Key Lair/Roof/Chest/"
+          },
+          {
+            "name": "1F Chest 3",
+            "ref": "Cipher Key Lair/1F/Chest 3/"
+          },
+          {
+            "name": "2F Chest 3",
+            "ref": "Cipher Key Lair/2F/Chest 3/"
+          },
+          {
+            "name": "3F Chest 2",
+            "ref": "Cipher Key Lair/3F/Chest 2/"
+          },
+          {
+            "name": "4F Chest 2",
+            "ref": "Cipher Key Lair/4F/Chest 2/"
+          },
+          {
+            "name": "4F Chest 3",
+            "ref": "Cipher Key Lair/4F/Chest 3/"
+          },
+          {
+            "name": "B1F Chest",
+            "ref": "Cipher Key Lair/B1F/Chest/"
+          },
+          {
+            "name": "1F Chest 4",
+            "ref": "Cipher Key Lair/1F/Chest 4/"
+          },
+          {
+            "name": "Defeat Zook",
+            "ref": "Cipher Key Lair/Exterior/Defeat Zook/"
+          },
+          {
+            "name": "Defeat Kollo",
+            "ref": "Cipher Key Lair/B1F/Defeat Kollo/"
+          },
+          {
+            "name": "Defeat Grezle",
+            "ref": "Cipher Key Lair/1F/Defeat Grezle/"
+          },
+          {
+            "name": "Defeat Humah",
+            "ref": "Cipher Key Lair/1F/Defeat Humah/"
+          },
+          {
+            "name": "Defeat Ibsol",
+            "ref": "Cipher Key Lair/1F/Defeat Ibsol/"
+          },
+          {
+            "name": "Defeat Jelstin",
+            "ref": "Cipher Key Lair/1F/Defeat Jelstin/"
+          },
+          {
+            "name": "Defeat Gorog",
+            "ref": "Cipher Key Lair/2F/Defeat Gorog/"
+          },
+          {
+            "name": "Defeat Lok",
+            "ref": "Cipher Key Lair/3F/Defeat Lok/"
+          },
+          {
+            "name": "Defeat Kleto",
+            "ref": "Cipher Key Lair/4F/Defeat Kleto/"
+          },
+          {
+            "name": "Defeat Flipis",
+            "ref": "Cipher Key Lair/4F/Defeat Flipis/"
+          },
+          {
+            "name": "Defeat Targ",
+            "ref": "Cipher Key Lair/4F/Defeat Targ/"
+          },
+          {
+            "name": "Defeat Hospel",
+            "ref": "Cipher Key Lair/4F/Defeat Hospel/"
+          },
+          {
+            "name": "Defeat Snidle",
+            "ref": "Cipher Key Lair/4F/Defeat Snidle/"
+          },
+          {
+            "name": "Defeat Fudler",
+            "ref": "Cipher Key Lair/Roof/Defeat Fudler/"
+          },
+          {
+            "name": "Defeat Angic",
+            "ref": "Cipher Key Lair/Roof/Defeat Angic/"
+          },
+          {
+            "name": "Defeat Acrod",
+            "ref": "Cipher Key Lair/Roof/Defeat Acrod/"
+          },
+          {
+            "name": "Defeat Gorigan",
+            "ref": "Cipher Key Lair/5F/Defeat Gorigan/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "overview",
+            "size": 14,
+            "border_thickness": 3,
+            "x": 470,
+            "y": 140
+          }
+        ]
+      }
+    ]
+  },
+
+  ///////////////////
+  // Citadark Isle //
+  ///////////////////
+
+  {
+    "name": "Citadark Isle",
+    "access_rules": [
+      ""
+    ],
+    "children": [
+      {
+        "name": "Citadark Isle",
+        "sections": [
+          {
+            "name": "Exterior Chest 1",
+            "ref": "Citadark Isle/Exterior/Chest 1/"
+          },
+          {
+            "name": "1F Chest",
+            "ref": "Citadark Isle/1F/Chest/"
+          },
+          {
+            "name": "2F 1 Chest 1",
+            "ref": "Citadark Isle/2F 1/Chest 1/"
+          },
+          {
+            "name": "2F 1 Chest 2",
+            "ref": "Citadark Isle/2F 1/Chest 2/"
+          },
+          {
+            "name": "Chest 3",
+            "ref": "Citadark Isle/3F 1/Chest 3/"
+          },
+          {
+            "name": "3F 1 Chest 1",
+            "ref": "Citadark Isle/3F 1/Chest 1/"
+          },
+          {
+            "name": "3F 1 Chest 2",
+            "ref": "Citadark Isle/3F 1/Chest 2/"
+          },
+          {
+            "name": "3F 2 Chest 2",
+            "ref": "Citadark Isle/3F 2/Chest 2/"
+          },
+          {
+            "name": "3F 2 Chest 1",
+            "ref": "Citadark Isle/3F 2/Chest 1/"
+          },
+          {
+            "name": "4F Chest 1",
+            "ref": "Citadark Isle/4F/Chest 1/"
+          },
+          {
+            "name": "5F Chest 2",
+            "ref": "Citadark Isle/5F/Chest 2/"
+          },
+          {
+            "name": "5F Chest 1",
+            "ref": "Citadark Isle/5F/Chest 1/"
+          },
+          {
+            "name": "5F Chest 3",
+            "ref": "Citadark Isle/5F/Chest 3/"
+          },
+          {
+            "name": "6F Chest 1",
+            "ref": "Citadark Isle/6F/Chest 1/"
+          },
+          {
+            "name": "6F Chest 2",
+            "ref": "Citadark Isle/6F/Chest 2/"
+          },
+          {
+            "name": "B1F Chest 3",
+            "ref": "Citadark Isle/B1F/Chest 3/"
+          },
+          {
+            "name": "B1F Chest 2",
+            "ref": "Citadark Isle/B1F/Chest 2/"
+          },
+          {
+            "name": "B1F Chest",
+            "ref": "Citadark Isle/B1F/Chest 1/"
+          },
+          {
+            "name": "Dome 1F Chest 1",
+            "ref": "Citadark Isle/Dome 1F/Chest 1/"
+          },
+          {
+            "name": "Defeat Abson",
+            "ref": "Citadark Isle/Exterior/Defeat Abson/"
+          },
+          {
+            "name": "Defeat Kleef",
+            "ref": "Citadark Isle/Exterior/Defeat Kleef/"
+          },
+          {
+            "name": "Defeat Haben",
+            "ref": "Citadark Isle/1F/Defeat Haben/"
+          },
+          {
+            "name": "Defeat Furgy",
+            "ref": "Citadark Isle/1F/Defeat Furgy/"
+          },
+          {
+            "name": "Defeat Golos",
+            "ref": "Citadark Isle/1F/Defeat Golos/"
+          },
+          {
+            "name": "Defeat Jetsal",
+            "ref": "Citadark Isle/1F/Defeat Jetsal/"
+          },
+          {
+            "name": "Defeat Bastil",
+            "ref": "Citadark Isle/B1F/Defeat Bastil/"
+          },
+          {
+            "name": "Defeat Litnar",
+            "ref": "Citadark Isle/B1F/Defeat Litnar/"
+          },
+          {
+            "name": "Defeat Grason",
+            "ref": "Citadark Isle/B1F/Defeat Grason/"
+          },
+          {
+            "name": "Defeat Grupel",
+            "ref": "Citadark Isle/2F 1/Defeat Grupel/"
+          },
+          {
+            "name": "Defeat Kimly",
+            "ref": "Citadark Isle/2F 3/Defeat Kimly/"
+          },
+          {
+            "name": "Defeat Nalix",
+            "ref": "Citadark Isle/3F 1/Defeat Nalix/"
+          },
+          {
+            "name": "Defeat Ibran",
+            "ref": "Citadark Isle/3F 1/Defeat Ibran/"
+          },
+          {
+            "name": "Defeat Kulig",
+            "ref": "Citadark Isle/3F 1/Defeat Kulig/"
+          },
+          {
+            "name": "Defeat Jargo",
+            "ref": "Citadark Isle/3F 1/Defeat Jargo/"
+          },
+          {
+            "name": "Defeat Kolest",
+            "ref": "Citadark Isle/3F 1/Defeat Kolest/"
+          },
+          {
+            "name": "Defeat Kolin",
+            "ref": "Citadark Isle/3F 1/Defeat Kolin/"
+          },
+          {
+            "name": "Defeat Karbon",
+            "ref": "Citadark Isle/3F 2/Defeat Karbon/"
+          },
+          {
+            "name": "Defeat Petro",
+            "ref": "Citadark Isle/3F 2/Defeat Petro/"
+          },
+          {
+            "name": "Defeat Jaymi",
+            "ref": "Citadark Isle/4F/Defeat Jaymi/"
+          },
+          {
+            "name": "Defeat Gromlet",
+            "ref": "Citadark Isle/4F/Defeat Gromlet/"
+          },
+          {
+            "name": "Defeat Geftal",
+            "ref": "Citadark Isle/6F/Defeat Geftal/"
+          },
+          {
+            "name": "Defeat Leden",
+            "ref": "Citadark Isle/6F/Defeat Leden/"
+          },
+          {
+            "name": "Defeat Ardos",
+            "ref": "Citadark Isle/Dome Exterior/Defeat Ardos/"
+          },
+          {
+            "name": "Defeat Kolax",
+            "ref": "Citadark Isle/Dome B1F/Defeat Kolax/"
+          },
+          {
+            "name": "Defeat Eldes",
+            "ref": "Citadark Isle/Dome 1F/Defeat Eldes/"
+          },
+          {
+            "name": "Defeat Loket",
+            "ref": "Citadark Isle/Dome 1F/Defeat Loket/"
+          },
+          {
+            "name": "Defeat Kaller",
+            "ref": "Citadark Isle/Dome 1F/Defeat Kaller/"
+          },
+          {
+            "name": "Defeat Greevil",
+            "ref": "Citadark Isle/Dome 2F/Defeat Greevil/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "overview",
+            "size": 14,
+            "border_thickness": 3,
+            "x": 30,
+            "y": 280
+          }
+        ]
+      }
+    ]
+  }
+]

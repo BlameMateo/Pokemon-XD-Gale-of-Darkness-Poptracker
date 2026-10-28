@@ -1,0 +1,175 @@
+[
+  {
+    "name": "Mt. Battle",
+    "access_rules": [
+      "$can_access_mt_battle"
+    ],
+    "children": [
+      {
+        "name": "Exterior",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Chest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle exterior",
+                "x": 605,
+                "y": 345
+              }
+            ]
+          },
+          {
+            "name": "Mt. Battle Story",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "name": "Defeat Miru",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Defeat Cridel",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Defeat Bardo",
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              },
+              {
+                "name": "Unlock Cipher Lab",
+                "visibility_rules": ["randomize_travel_locations"],
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle exterior",
+                "x": 540,
+                "y": 150
+              }
+            ]
+          },
+          {
+            "name": "Mt. Battle Shop",
+            "access_rules": "",
+            "visibility_rules": ["randomize_shops"],
+            "sections": [
+              {
+                "name": "Shop Item 1",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 2",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 3",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 4",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 5",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 6",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 7",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 8",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 9",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 10",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 11",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 12",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 13",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 14",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 15",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 16",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 17",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              },
+              {
+                "name": "Shop Item 18",
+                "chest_unopened_img": "images/items/shop.png",
+                "chest_opened_img": "images/items/shop_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle exterior",
+                "x": 540,
+                "y": 230
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

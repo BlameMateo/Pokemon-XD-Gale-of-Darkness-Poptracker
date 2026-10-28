@@ -1,0 +1,612 @@
+[
+  {
+    "name": "Cipher Lab",
+    "access_rules": [
+      "$can_access_cipher_lab"
+    ],
+    "children": [
+      {
+        "name": "Exterior",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "The Sixes",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "name": "Defeat Blusix",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              },
+              {
+                "name": "Defeat Browsix",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              },
+              {
+                "name": "Defeat Greesix",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              },
+              {
+                "name": "Defeat Purpsix",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              },
+              {
+                "name": "Defeat Resix",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              },
+              {
+                "name": "Defeat Yellosix",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab exterior",
+                "x": 700,
+                "y": 300
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "West",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab west",
+                "x": 40,
+                "y": 90
+              }
+            ]
+          },
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab west",
+                "x": 755,
+                "y": 80
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Corla",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab 1f",
+                "x": 515,
+                "y": 450
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "B1F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Javion",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f",
+                "x": 800,
+                "y": 280
+              }
+            ]
+          },
+          {
+            "name": "Defeat Tekot",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f",
+                "x": 170,
+                "y": 490
+              }
+            ]
+          },
+          {
+            "name": "Defeat Digor",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f",
+                "x": 750,
+                "y": 800
+              }
+            ]
+          },
+          {
+            "name": "Chest 3",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f",
+                "x": 810,
+                "y": 870
+              }
+            ]
+          },
+          {
+            "name": "Defeat Cabol",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f",
+                "x": 420,
+                "y": 1150
+              }
+            ]
+          },
+          {
+            "name": "Defeat Nopia",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f",
+                "x": 330,
+                "y": 840
+              }
+            ]
+          },
+          {
+            "name": "Chest 4",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f",
+                "x": 240,
+                "y": 740
+              }
+            ]
+          },
+          {
+            "name": "Defeat Klots",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f",
+                "x": 550,
+                "y": 520
+              }
+            ]
+          },
+          {
+            "name": "Chest 5",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f",
+                "x": 780,
+                "y": 540
+              }
+            ]
+          },
+          {
+            "name": "Item Pickup",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f",
+                "x": 600,
+                "y": 520
+              }
+            ]
+          },
+          {
+            "name": "Defeat Lovrina",
+            "access_rules": "data rom & id card",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f",
+                "x": 525,
+                "y": 250
+              }
+            ]
+          },
+          {
+            "name": "Lovrina Defeat Item",
+            "access_rules": "data rom & id card",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f",
+                "x": 570,
+                "y": 250
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "B1F 2",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Solox",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f 2",
+                "x": 450,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Krane Chest",
+            "access_rules": "data rom & id card",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f 2",
+                "x": 260,
+                "y": 360
+              }
+            ]
+          },
+          {
+            "name": "Defeat Naps",
+            "access_rules": "data rom & id card",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Naps.png",
+                "chest_opened_img": "images/trainers/Naps_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b1f 2",
+                "x": 180,
+                "y": 400
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "B2F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Mesak",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b2f",
+                "x": 950,
+                "y": 290
+              }
+            ]
+          },
+          {
+            "name": "Defeat Nexir",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b2f",
+                "x": 720,
+                "y": 190
+              }
+            ]
+          },
+          {
+            "name": "Chest 3",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b2f",
+                "x": 590,
+                "y": 300
+              }
+            ]
+          },
+          {
+            "name": "Defeat Crink",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b2f",
+                "x": 650,
+                "y": 850
+              }
+            ]
+          },
+          {
+            "name": "Defeat Morbit",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b2f",
+                "x": 770,
+                "y": 500
+              }
+            ]
+          },
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b2f",
+                "x": 910,
+                "y": 610
+              }
+            ]
+          },
+          {
+            "name": "Defeat Meda",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b2f",
+                "x": 700,
+                "y": 1120
+              }
+            ]
+          },
+          {
+            "name": "Chest 4",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b2f",
+                "x": 900,
+                "y": 935
+              }
+            ]
+          },
+          {
+            "name": "Southwest Room",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "name": "Defeat Elrok",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              },
+              {
+                "name": "Defeat Coffy",
+                "chest_unopened_img": "images/items/route.png",
+                "chest_opened_img": "images/items/route_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b2f",
+                "x": 100,
+                "y": 1120
+              }
+            ]
+          },
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "cipher lab b2f",
+                "x": 185,
+                "y": 1020
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

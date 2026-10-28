@@ -1,0 +1,340 @@
+[
+  {
+    "name": "Snagem Hideout",
+    "access_rules": [
+      "$can_access_snagem_hideout"
+    ],
+    "children": [
+      {
+        "name": "1F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Agrev",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 1f",
+                "x": 620,
+                "y": 410
+              }
+            ]
+          },
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 1f",
+                "x": 770,
+                "y": 100
+              }
+            ]
+          },
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 1f",
+                "x": 1020,
+                "y": 460
+              }
+            ]
+          },
+          {
+            "name": "Defeat Biden",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 1f",
+                "x": 930,
+                "y": 590
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "2F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 2f",
+                "x": 590,
+                "y": 150
+              }
+            ]
+          },
+          {
+            "name": "Defeat Jedo",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 2f",
+                "x": 630,
+                "y": 200
+              }
+            ]
+          },
+          {
+            "name": "Defeat Gaply",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 2f",
+                "x": 260,
+                "y": 600
+              }
+            ]
+          },
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 2f",
+                "x": 260,
+                "y": 450
+              }
+            ]
+          },
+          {
+            "name": "Defeat Fudlo",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 2f",
+                "x": 440,
+                "y": 150
+              }
+            ]
+          },
+          {
+            "name": "Defeat Wakin",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 2f",
+                "x": 1050,
+                "y": 400
+              }
+            ]
+          },
+          {
+            "name": "Defeat Gonzap",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 2f",
+                "x": 935,
+                "y": 300
+              }
+            ]
+          },
+          {
+            "name": "Gonzap Room Chest",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 2f",
+                "x": 1080,
+                "y": 600
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "3F",
+        "access_rules": [
+          ""
+        ],
+        "children": [
+          {
+            "name": "Defeat Golit",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 3f",
+                "x": 910,
+                "y": 180
+              }
+            ]
+          },
+          {
+            "name": "Chest 2",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 3f",
+                "x": 660,
+                "y": 190
+              }
+            ]
+          },
+          {
+            "name": "Chest 1",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/chest.png",
+                "chest_opened_img": "images/items/chest_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 3f",
+                "x": 540,
+                "y": 640
+              }
+            ]
+          },
+          {
+            "name": "Defeat Hobble",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 3f",
+                "x": 550,
+                "y": 380
+              }
+            ]
+          },
+          {
+            "name": "Defeat Jinok",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "snagem 3f",
+                "x": 300,
+                "y": 600
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
