@@ -4,13 +4,17 @@
       "version": "0.0.4",
       "download_url": "https://github.com/BlameMateo/Pokemon-XD-Gale-of-Darkness-Poptracker/releases/download/v0.0.4/pokemon_xd_gale_of_darkness.zip",
       "sha256": "514cfff43810b68ca22fb6fcb894f080f86560b70500af044d7d353f94d8a31f",
-      "changelog": ["V0.0.4 See Github for release notes."]
+      "changelog": [
+        "V0.0.4 See Github for release notes."
+      ]
     },
     {
       "version": "0.0.3",
       "download_url": "https://github.com/BlameMateo/Pokemon-XD-Gale-of-Darkness-Poptracker/releases/download/v0.0.3/pokemon_xd_gale_of_darkness.zip",
       "sha256": "bf9b2cc57b7a00701ab648b6dbaeed8c75cfe341ba464bea90ac2a9fde04747f",
-      "changelog": ["V0.0.3 See Github for release notes."]
+      "changelog": [
+        "V0.0.3 See Github for release notes."
+      ]
     }
   ]
 }
