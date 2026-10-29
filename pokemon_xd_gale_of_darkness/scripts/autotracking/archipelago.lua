@@ -182,6 +182,8 @@ function onClear(slot_data)
 	Tracker:FindObjectForCode("tab_switch").CurrentStage = 0
 	Tracker:FindObjectForCode("room_switch").CurrentStage = 1
 
+	Tracker:FindObjectForCode("shuffle_trainer_defeats").CurrentStage = 0
+	Tracker:FindObjectForCode("citadark_admins_only").CurrentStage = 0
 	Tracker:FindObjectForCode("trainer_defeat_mode").CurrentStage = 2
 	Tracker:FindObjectForCode("randomize_travel_locations").CurrentStage = 0
 	Tracker:FindObjectForCode("randomize_shops").CurrentStage = 0
@@ -190,25 +192,37 @@ function onClear(slot_data)
 
 
 	
-    if slot_data["trainer_defeat_mode"] then
+    if slot_data["shuffle_trainer_defeats"] then
+        if slot_data["shuffle_trainer_defeats"] == 1 then
+            Tracker:FindObjectForCode("shuffle_trainer_defeats").Active = true
+        end
+    end
+
+	if slot_data["citadark_admins_only"] then
+        if slot_data["citadark_admins_only"] == 1 then
+            Tracker:FindObjectForCode("citadark_admins_only").Active = true
+        end
+    end
+	
+	if slot_data["trainer_defeat_mode"] then
         if slot_data["trainer_defeat_mode"] == true then
             Tracker:FindObjectForCode("trainer_defeat_mode").CurrentStage = 1
         end
     end
 
 	if slot_data["randomize_travel_locations"] then
-    	if slot_data["randomize_travel_locations"] == true or slot_data["randomize_travel_locations"] == 1 then
+    	if slot_data["randomize_travel_locations"] == 1 then
         	Tracker:FindObjectForCode("randomize_travel_locations").Active = true
     	end
 	end
 
 	if slot_data["robo_kyogre_parts_unlock_citadark"] then
-    	if slot_data["robo_kyogre_parts_unlock_citadark"] == true or slot_data["robo_kyogre_parts_unlock_citadark"] == 1 then
+    	if slot_data["robo_kyogre_parts_unlock_citadark"] == 1 then
         	Tracker:FindObjectForCode("robo_kyogre_parts_unlock_citadark").Active = true
     	end
 	end
 
-	local travel_on = slot_data["randomize_travel_locations"] == true
+	local travel_on = slot_data["randomize_travel_locations"] == 1
 
 	if not travel_on then
     	local TRAVEL_DEFAULTS = {

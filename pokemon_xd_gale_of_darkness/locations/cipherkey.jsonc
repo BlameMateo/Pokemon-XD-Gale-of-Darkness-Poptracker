@@ -14,7 +14,7 @@
           {
             "name": "Defeat Zook",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -40,7 +40,7 @@
           {
             "name": "Defeat Kollo",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -84,7 +84,7 @@
           {
             "name": "Defeat Grezle",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -102,7 +102,7 @@
           {
             "name": "Defeat Humah",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -120,7 +120,7 @@
           {
             "name": "Defeat Ibsol",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -174,7 +174,7 @@
           {
             "name": "Defeat Jelstin",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -272,7 +272,7 @@
           {
             "name": "Defeat Gorog",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -352,7 +352,7 @@
           {
             "name": "Defeat Lok",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -396,7 +396,7 @@
           {
             "name": "Defeat Kleto",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -432,7 +432,7 @@
           {
             "name": "Defeat Flipis",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -450,7 +450,7 @@
           {
             "name": "Defeat Targ",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -468,7 +468,7 @@
           {
             "name": "Defeat Hospel",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -486,7 +486,7 @@
           {
             "name": "Defeat Snidle",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -530,7 +530,7 @@
           {
             "name": "Defeat Fudler",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -546,13 +546,19 @@
             ]
           },
           {
-            "name": "Defeat Angic",
+            "name": "Stairs to Upper Roof",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
+                "name": "Defeat Angic",
                 "chest_unopened_img": "images/items/.png",
                 "chest_opened_img": "images/items/_g.png"
+              },
+              {
+                "name": "Defeat Smarton #2",
+                "chest_unopened_img": "images/trainers/Naps.png",
+                "chest_opened_img": "images/trainers/Naps_g.png"
               }
             ],
             "map_locations": [
@@ -584,7 +590,7 @@
           {
             "name": "Defeat Acrod",
             "access_rules": "system lever",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -610,7 +616,7 @@
           {
             "name": "Defeat Gorigan",
             "access_rules": "system lever",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",

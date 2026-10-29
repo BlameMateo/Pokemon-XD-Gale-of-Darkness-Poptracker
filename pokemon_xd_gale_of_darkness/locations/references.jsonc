@@ -945,7 +945,7 @@
           {
             "name": "Cave Poke Spot",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "name": "Defeat Miror B.",
@@ -1630,7 +1630,11 @@
           },
           {
             "name": "Defeat Angic",
-            "ref": "Cipher Key Lair/Roof/Defeat Angic/"
+            "ref": "Cipher Key Lair/Roof/Stairs to Upper Roof/Defeat Angic"
+          },
+          {
+            "name": "Defeat Smarton #2",
+            "ref": "Cipher Key Lair/Roof/Stairs to Upper Roof/Defeat Smarton #2"
           },
           {
             "name": "Defeat Acrod",
@@ -1768,6 +1772,10 @@
             "ref": "Citadark Isle/1F/Defeat Jetsal/"
           },
           {
+            "name": "Defeat Lovrina #2",
+            "ref": "Citadark Isle/1F/Defeat Lovrina #2/"
+          },
+          {
             "name": "Defeat Bastil",
             "ref": "Citadark Isle/B1F/Defeat Bastil/"
           },
@@ -1834,6 +1842,10 @@
           {
             "name": "Defeat Leden",
             "ref": "Citadark Isle/6F/Defeat Leden/"
+          },
+          {
+            "name": "Defeat Snattle #2",
+            "ref": "Citadark Isle/Dome Exterior/Defeat Snattle #2/"
           },
           {
             "name": "Defeat Ardos",

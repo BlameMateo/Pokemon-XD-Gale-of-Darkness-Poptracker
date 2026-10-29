@@ -136,6 +136,12 @@ function can_access_citadark_isle()
     end
 end
 
+function show_citadark_trainers()
+    if has("shuffle_trainer_defeats") and hasnot("citadark_admins_only")then
+        return true
+    end
+end
+
 function has_robo_kyogre_parts()
     if not ROBO_KYOGRE_REQUIRED then return false end
     return has("robo kyogre part", ROBO_KYOGRE_REQUIRED)

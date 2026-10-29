@@ -19,32 +19,38 @@
               {
                 "name": "Defeat Blusix",
                 "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_opened_img": "images/items/route_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Browsix",
                 "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_opened_img": "images/items/route_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Greesix",
                 "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_opened_img": "images/items/route_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Purpsix",
                 "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_opened_img": "images/items/route_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Resix",
                 "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_opened_img": "images/items/route_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Yellosix",
                 "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_opened_img": "images/items/route_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               }
             ],
             "map_locations": [
@@ -110,7 +116,7 @@
           {
             "name": "Defeat Corla",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -136,7 +142,7 @@
           {
             "name": "Defeat Javion",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/route.png",
@@ -154,7 +160,7 @@
           {
             "name": "Defeat Tekot",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/route.png",
@@ -172,7 +178,7 @@
           {
             "name": "Defeat Digor",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/route.png",
@@ -208,7 +214,7 @@
           {
             "name": "Defeat Cabol",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/route.png",
@@ -226,7 +232,7 @@
           {
             "name": "Defeat Nopia",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/route.png",
@@ -262,7 +268,7 @@
           {
             "name": "Defeat Klots",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/route.png",
@@ -316,7 +322,7 @@
           {
             "name": "Defeat Lovrina",
             "access_rules": "data rom & id card",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/route.png",
@@ -360,7 +366,7 @@
           {
             "name": "Defeat Solox",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/route.png",
@@ -396,7 +402,7 @@
           {
             "name": "Defeat Naps",
             "access_rules": "data rom & id card",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/trainers/Naps.png",
@@ -422,7 +428,7 @@
           {
             "name": "Defeat Mesak",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/route.png",
@@ -440,7 +446,7 @@
           {
             "name": "Defeat Nexir",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/route.png",
@@ -476,7 +482,7 @@
           {
             "name": "Defeat Crink",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/route.png",
@@ -494,7 +500,7 @@
           {
             "name": "Defeat Morbit",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/route.png",
@@ -530,7 +536,7 @@
           {
             "name": "Defeat Meda",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/route.png",
@@ -566,7 +572,7 @@
           {
             "name": "Southwest Room",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "name": "Defeat Elrok",

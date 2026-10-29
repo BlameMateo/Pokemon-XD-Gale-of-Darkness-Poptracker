@@ -37,17 +37,20 @@
               {
                 "name": "Defeat Miru",
                 "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_opened_img": "images/items/chest_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Cridel",
                 "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_opened_img": "images/items/chest_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Bardo",
                 "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_opened_img": "images/items/chest_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Unlock Cipher Lab",

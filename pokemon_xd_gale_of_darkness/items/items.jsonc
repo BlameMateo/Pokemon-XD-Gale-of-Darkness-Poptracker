@@ -177,6 +177,16 @@
     "type": "toggle",
     "codes": "map_trainer_levels"
   },
+  {
+    "name": "Shuffle Trainer Defeats",
+    "type": "toggle",
+    "codes": "shuffle_trainer_defeats"
+  },
+  {
+    "name": "Citadark Admins Only",
+    "type": "toggle",
+    "codes": "citadark_admins_only"
+  },
 
   {
     "name": "Roomsanity",

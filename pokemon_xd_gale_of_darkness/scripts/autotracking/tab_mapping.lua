@@ -61,4 +61,28 @@ TAB_MAPPING = {
     [166] = {'Snagem Hideout', '2F', '2F', '2F', '42'},
     [167] = {'Snagem Hideout', '3F', '3F', '3F', '43'},
 
+    [71] = {'Cipher Key Lair', 'Exterior', 'Exterior', 'Exterior', '44'},
+    [64] = {'Cipher Key Lair', '1F', '1F', '1F', '45'},
+    [68] = {'Cipher Key Lair', 'B1F', 'B1F', 'B1F', '46'},
+    [65] = {'Cipher Key Lair', '2F', '2F', '2F', '47'},
+    [66] = {'Cipher Key Lair', '3F', '3F', '3F', '48'},
+    [67] = {'Cipher Key Lair', '4F', '4F', '4F', '49'},
+    [70] = {'Cipher Key Lair', 'Roof', 'Roof', 'Roof', '50'},
+    [69] = {'Cipher Key Lair', '5F', '5F', '5F', '51'},
+
+    [88] = {'Citadark Isle', 'Exterior', 'Exterior', 'Exterior', '52'},
+    [76] = {'Citadark Isle', '1F', '1F', '1F', '53'},
+    [85] = {'Citadark Isle', 'B1F', 'B1F', 'B1F', '54'},
+    [77] = {'Citadark Isle', '2F 1', '2F 1', '2F 1', '55'},
+    [78] = {'Citadark Isle', '2F 2', '2F 2', '2F 2', '56'},
+    [79] = {'Citadark Isle', '2F 3', '2F 3', '2F 3', '57'},
+    [80] = {'Citadark Isle', '3F 1', '3F 1', '3F 1', '58'},
+    [81] = {'Citadark Isle', '3F 2', '3F 2', '3F 2', '59'},
+    [82] = {'Citadark Isle', '4F', '4F', '4F', '60'},
+    [83] = {'Citadark Isle', '5F', '5F', '5F', '61'},
+    [84] = {'Citadark Isle', '6F', '6F', '6F', '62'},
+    [87] = {'Citadark Isle', 'Dome Exterior', 'Dome Exterior', 'Dome Exterior', '63'},
+    [75] = {'Citadark Isle', 'Dome B1F', 'Dome B1F', 'Dome B1F', '64'},
+    [73] = {'Citadark Isle', 'Dome 1F', 'Dome 1F', 'Dome 1F', '65'},
+
 } 

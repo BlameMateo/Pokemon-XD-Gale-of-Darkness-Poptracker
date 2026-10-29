@@ -14,7 +14,7 @@
           {
             "name": "Defeat Agrev",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -68,7 +68,7 @@
           {
             "name": "Defeat Biden",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -112,7 +112,7 @@
           {
             "name": "Defeat Jedo",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -130,7 +130,7 @@
           {
             "name": "Defeat Gaply",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -166,7 +166,7 @@
           {
             "name": "Defeat Fudlo",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -184,7 +184,7 @@
           {
             "name": "Defeat Wakin",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -202,7 +202,7 @@
           {
             "name": "Defeat Gonzap",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -246,7 +246,7 @@
           {
             "name": "Defeat Golit",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -300,7 +300,7 @@
           {
             "name": "Defeat Hobble",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -318,7 +318,7 @@
           {
             "name": "Defeat Jinok",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",

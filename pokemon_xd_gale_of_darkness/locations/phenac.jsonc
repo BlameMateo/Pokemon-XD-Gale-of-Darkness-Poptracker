@@ -96,12 +96,14 @@
               {
                 "name": "Defeat Exinn",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Gonrag",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               }
             ],
             "map_locations": [
@@ -115,7 +117,7 @@
           {
             "name": "Defeat Ertlig",
             "access_rules": ["music disc, mayor's note"],
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -133,7 +135,7 @@
           {
             "name": "Defeat Greck",
             "access_rules": ["music disc, mayor's note"],
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -151,7 +153,7 @@
           {
             "name": "Defeat Forgs",
             "access_rules": ["music disc, mayor's note"],
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -169,7 +171,7 @@
           {
             "name": "Defeat Pellim",
             "access_rules": ["music disc, mayor's note"],
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -187,7 +189,7 @@
           {
             "name": "Defeat Fenton",
             "access_rules": ["music disc, mayor's note"],
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -205,7 +207,7 @@
           {
             "name": "Defeat Ezoor",
             "access_rules": ["music disc, mayor's note"],
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -223,7 +225,7 @@
           {
             "name": "Defeat Kapen",
             "access_rules": ["music disc, mayor's note"],
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -246,42 +248,50 @@
               {
                 "name": "Defeat Eloin",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Fasin",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Fostin",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Quelor",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Teslor",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Nopel",
                 "chest_unopened_img": "images/trainers/Supertrainer_m.png",
-                "chest_opened_img": "images/trainers/Supertrainer_m_g.png"
+                "chest_opened_img": "images/trainers/Supertrainer_m_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Kalus",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Justy",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Unlock SS Libra",
@@ -306,22 +316,26 @@
               {
                 "name": "Defeat Ezin",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Faltly",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Egrog",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Snattle",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Colosseum Chest 1",
@@ -341,7 +355,8 @@
               {
                 "name": "Defeat Equin",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               }
             ],
             "map_locations": [
@@ -355,7 +370,7 @@
           {
             "name": "Defeat Eroll",
             "access_rules": ["music disc, mayor's note"],
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/trainers/Old_man.png",

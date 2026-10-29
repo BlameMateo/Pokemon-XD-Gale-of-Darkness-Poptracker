@@ -40,11 +40,11 @@
           {
             "name": "Defeat Smarton",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Naps.png",
+                "chest_opened_img": "images/trainers/Naps_g.png"
               }
             ],
             "map_locations": [

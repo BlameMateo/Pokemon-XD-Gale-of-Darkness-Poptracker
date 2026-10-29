@@ -58,7 +58,7 @@
           {
             "name": "Defeat Naps",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/trainers/Naps.png",
@@ -76,7 +76,7 @@
           {
             "name": "Defeat Aferd",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/trainers/Supertrainer_m.png",

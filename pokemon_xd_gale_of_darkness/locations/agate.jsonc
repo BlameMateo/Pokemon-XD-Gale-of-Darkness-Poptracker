@@ -92,7 +92,7 @@
           {
             "name": "Defeat Belish",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/chest.png",
@@ -110,7 +110,7 @@
           {
             "name": "Defeat Dosk",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/chest.png",
@@ -128,7 +128,7 @@
           {
             "name": "Defeat Cida",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/chest.png",
@@ -146,7 +146,7 @@
           {
             "name": "Defeat Hebon",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/chest.png",
@@ -164,7 +164,7 @@
           {
             "name": "Defeat Clerr",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/trainers/Old_man.png",
@@ -282,7 +282,7 @@
           {
             "name": "Defeat Gorps",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/chest.png",
@@ -300,7 +300,7 @@
           {
             "name": "Defeat Jols",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/trainers/Supertrainer_f.png",
@@ -318,7 +318,7 @@
           {
             "name": "Defeat Ladi",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/chest.png",
@@ -336,7 +336,7 @@
           {
             "name": "Defeat Cron",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/trainers/Old_man.png",
@@ -372,7 +372,7 @@
           {
             "name": "Defeat Eagun",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/chest.png",

@@ -14,7 +14,7 @@
           {
             "name": "Defeat Chobin",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/trainers/Chobin.png",

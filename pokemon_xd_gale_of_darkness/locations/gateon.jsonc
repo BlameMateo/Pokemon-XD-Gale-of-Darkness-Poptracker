@@ -14,7 +14,7 @@
           {
             "name": "Defeat Cyle",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -50,7 +50,7 @@
           {
             "name": "Defeat Berk",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -124,7 +124,8 @@
               {
                 "name": "Defeat Kilen",
                 "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_opened_img": "images/items/_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               }
             ],
             "map_locations": [
@@ -138,7 +139,7 @@
           {
             "name": "Defeat Bost",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/.png",
@@ -156,7 +157,7 @@
           {
             "name": "Defeat Laken",
             "access_rules": "",
-            "visibility_rules": [],
+            "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
                 "chest_unopened_img": "images/items/route.png",

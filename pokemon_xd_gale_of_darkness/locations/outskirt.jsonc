@@ -19,7 +19,8 @@
               {
                 "name": "Defeat Willie",
                 "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_opened_img": "images/items/route_g.png",
+                "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Shop Item 1",
