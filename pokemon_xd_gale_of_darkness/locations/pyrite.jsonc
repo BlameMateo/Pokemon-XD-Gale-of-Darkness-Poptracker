@@ -17,8 +17,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Cail.png",
+                "chest_opened_img": "images/trainers/Cail_g.png"
               }
             ],
             "map_locations": [
@@ -35,8 +35,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Worker.png",
+                "chest_opened_img": "images/trainers/Worker_g.png"
               }
             ],
             "map_locations": [
@@ -119,28 +119,28 @@
             "sections": [
               {
                 "name": "Defeat Finol",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Chaser_f.png",
+                "chest_opened_img": "images/trainers/Chaser_f_g.png"
               },
               {
                 "name": "Defeat Raling",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Hunter.png",
+                "chest_opened_img": "images/trainers/Hunter_g.png"
               },
               {
                 "name": "Defeat Dert",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Rider.png",
+                "chest_opened_img": "images/trainers/Rider_g.png"
               },
               {
                 "name": "Defeat Labet",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Chaser_m.png",
+                "chest_opened_img": "images/trainers/Chaser_m_g.png"
               },
               {
                 "name": "Defeat Doby",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Bodybuilder_m.png",
+                "chest_opened_img": "images/trainers/Bodybuilder_m_g.png"
               }
             ],
             "map_locations": [
@@ -297,8 +297,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Exol.png",
+                "chest_opened_img": "images/trainers/Exol_g.png"
               }
             ],
             "map_locations": [
@@ -359,8 +359,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_f.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_f_g.png"
               }
             ],
             "map_locations": [
@@ -372,13 +372,13 @@
             ]
           },
           {
-            "name": "Defeat Edlos",
+            "name": "Defeat Edios",
             "access_rules": "$can_access_onbs",
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -395,8 +395,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -421,8 +421,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -439,8 +439,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -465,8 +465,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -483,8 +483,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -519,8 +519,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -537,8 +537,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_f.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_f_g.png"
               }
             ],
             "map_locations": [
@@ -563,8 +563,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [

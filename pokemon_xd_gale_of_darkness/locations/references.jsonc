@@ -52,10 +52,8 @@
         "map_locations": [
           {
             "map": "overview",
-            "size": 14,
-            "border_thickness": 3,
-            "x": 125,
-            "y": 90
+            "x": 260,
+            "y": 60
           }
         ]
       }
@@ -87,10 +85,8 @@
         "map_locations": [
           {
             "map": "overview",
-            "size": 14,
-            "border_thickness": 3,
-            "x": 160,
-            "y": 170
+            "x": 320,
+            "y": 210
           }
         ]
       }
@@ -214,10 +210,8 @@
         "map_locations": [
           {
             "map": "overview",
-            "size": 14,
-            "border_thickness": 3,
-            "x": 85,
-            "y": 155
+            "x": 170,
+            "y": 185
           }
         ]
       }
@@ -345,10 +339,8 @@
         "map_locations": [
           {
             "map": "overview",
-            "size": 14,
-            "border_thickness": 3,
-            "x": 253,
-            "y": 147
+            "x": 500,
+            "y": 155
           }
         ]
       }
@@ -374,19 +366,19 @@
           },
           {
             "name": "Defeat Miru",
-            "ref": "Mt. Battle/Exterior/Mt. Battle Story/Defeat Miru"
+            "ref": "Mt. Battle/1-10/Defeat Miru/"
           },
           {
             "name": "Defeat Cridel",
-            "ref": "Mt. Battle/Exterior/Mt. Battle Story/Defeat Cridel"
+            "ref": "Mt. Battle/1-10/Defeat Cridel/"
           },
           {
             "name": "Defeat Bardo",
-            "ref": "Mt. Battle/Exterior/Mt. Battle Story/Defeat Bardo"
+            "ref": "Mt. Battle/1-10/Battle 3/Defeat Bardo"
           },
           {
             "name": "Unlock Cipher Lab",
-            "ref": "Mt. Battle/Exterior/Mt. Battle Story/Unlock Cipher Lab"
+            "ref": "Mt. Battle/1-10/Battle 3/Unlock Cipher Lab"
           },
           {
             "name": "Shop Item 1",
@@ -460,10 +452,8 @@
         "map_locations": [
           {
             "map": "overview",
-            "size": 14,
-            "border_thickness": 3,
-            "x": 345,
-            "y": 100
+            "x": 690,
+            "y": 65
           }
         ]
       }
@@ -627,10 +617,8 @@
         "map_locations": [
           {
             "map": "overview",
-            "size": 14,
-            "border_thickness": 3,
-            "x": 360,
-            "y": 210
+            "x": 723,
+            "y": 310
           }
         ]
       }
@@ -747,8 +735,8 @@
             "ref": "Pyrite Town/ONBS 3F/Defeat Dilly/"
           },
           {
-            "name": "ONBS Defeat Edlos",
-            "ref": "Pyrite Town/ONBS 3F/Defeat Edlos/"
+            "name": "ONBS Defeat Edios",
+            "ref": "Pyrite Town/ONBS 3F/Defeat Edios/"
           },
           {
             "name": "ONBS Defeat Lobar",
@@ -830,10 +818,8 @@
         "map_locations": [
           {
             "map": "overview",
-            "size": 14,
-            "border_thickness": 3,
-            "x": 210,
-            "y": 280
+            "x": 420,
+            "y": 460
           }
         ]
       }
@@ -897,8 +883,8 @@
             "ref": "Pyrite Town/ONBS 3F/Defeat Dilly/"
           },
           {
-            "name": "ONBS Defeat Edlos",
-            "ref": "Pyrite Town/ONBS 3F/Defeat Edlos/"
+            "name": "ONBS Defeat Edios",
+            "ref": "Pyrite Town/ONBS 3F/Defeat Edios/"
           },
           {
             "name": "ONBS Defeat Lobar",
@@ -916,8 +902,6 @@
         "map_locations": [
           {
             "map": "pyrite exterior",
-            "size": 18,
-            "border_thickness": 4,
             "x": 600,
             "y": 300
           }
@@ -949,17 +933,15 @@
             "sections": [
               {
                 "name": "Defeat Miror B.",
-                "chest_unopened_img": "images/trainers/",
-                "chest_opened_img": "images/trainers/"
+                "chest_unopened_img": "images/trainers/Miror_b.png",
+                "chest_opened_img": "images/trainers/Miror_b_g.png"
               }
             ],
             "map_locations": [
               {
                 "map": "overview",
-                "size": 14,
-                "border_thickness": 3,
-                "x": 368,
-                "y": 150
+                "x": 737,
+                "y": 185
               }
             ]
           }
@@ -1185,10 +1167,8 @@
         "map_locations": [
           {
             "map": "overview",
-            "size": 14,
-            "border_thickness": 3,
-            "x": 470,
-            "y": 290
+            "x": 935,
+            "y": 480
           }
         ]
       }
@@ -1272,10 +1252,8 @@
         "map_locations": [
           {
             "map": "overview",
-            "size": 14,
-            "border_thickness": 3,
-            "x": 380,
-            "y": 260
+            "x": 760,
+            "y": 410
           }
         ]
       }
@@ -1335,10 +1313,8 @@
         "map_locations": [
           {
             "map": "overview",
-            "size": 14,
-            "border_thickness": 3,
-            "x": 468,
-            "y": 225
+            "x": 945,
+            "y": 330
           }
         ]
       }
@@ -1398,10 +1374,8 @@
         "map_locations": [
           {
             "map": "overview",
-            "size": 14,
-            "border_thickness": 3,
-            "x": 565,
-            "y": 280
+            "x": 1130,
+            "y": 460
           }
         ]
       }
@@ -1487,16 +1461,14 @@
           },
           {
             "name": "Defeat Gonzap",
-            "ref": "Snagem Hideout/Exterior/Defeat Gonzap/"
+            "ref": "Snagem Hideout/2F/Defeat Gonzap/"
           }
         ],
         "map_locations": [
           {
             "map": "overview",
-            "size": 14,
-            "border_thickness": 3,
-            "x": 545,
-            "y": 180
+            "x": 1090,
+            "y": 230
           }
         ]
       }
@@ -1648,10 +1620,8 @@
         "map_locations": [
           {
             "map": "overview",
-            "size": 14,
-            "border_thickness": 3,
-            "x": 470,
-            "y": 140
+            "x": 945,
+            "y": 145
           }
         ]
       }
@@ -1852,6 +1822,10 @@
             "ref": "Citadark Isle/Dome Exterior/Defeat Ardos/"
           },
           {
+            "name": "Defeat Gorigan #2",
+            "ref": "Citadark Isle/Dome Exterior/Defeat Gorigan #2/"
+          },
+          {
             "name": "Defeat Kolax",
             "ref": "Citadark Isle/Dome B1F/Defeat Kolax/"
           },
@@ -1875,10 +1849,8 @@
         "map_locations": [
           {
             "map": "overview",
-            "size": 14,
-            "border_thickness": 3,
-            "x": 30,
-            "y": 280
+            "x": 60,
+            "y": 400
           }
         ]
       }

@@ -30,44 +30,6 @@
             ]
           },
           {
-            "name": "Mt. Battle Story",
-            "access_rules": "",
-            "visibility_rules": [],
-            "sections": [
-              {
-                "name": "Defeat Miru",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png",
-                "visibility_rules": "shuffle_trainer_defeats"
-              },
-              {
-                "name": "Defeat Cridel",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png",
-                "visibility_rules": "shuffle_trainer_defeats"
-              },
-              {
-                "name": "Defeat Bardo",
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png",
-                "visibility_rules": "shuffle_trainer_defeats"
-              },
-              {
-                "name": "Unlock Cipher Lab",
-                "visibility_rules": ["randomize_travel_locations"],
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
-              }
-            ],
-            "map_locations": [
-              {
-                "map": "mt. battle exterior",
-                "x": 540,
-                "y": 150
-              }
-            ]
-          },
-          {
             "name": "Mt. Battle Shop",
             "access_rules": "",
             "visibility_rules": ["randomize_shops"],
@@ -168,6 +130,1904 @@
                 "map": "mt. battle exterior",
                 "x": 540,
                 "y": 230
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1-10",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": [""],
+        "children": [
+          {
+            "name": "Defeat Miru",
+            "access_rules": "",
+            "visibility_rules": ["shuffle_trainer_defeats"],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Beauty.png",
+                "chest_opened_img": "images/trainers/Beauty_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 1",
+                "x": 197,
+                "y": 974
+              }
+            ]
+          },
+          {
+            "name": "Defeat Cridel",
+            "access_rules": "",
+            "visibility_rules": ["shuffle_trainer_defeats"],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Casual_Dude.png",
+                "chest_opened_img": "images/trainers/Casual_Dude_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 1",
+                "x": 320,
+                "y": 875
+              }
+            ]
+          },
+          {
+            "name": "Battle 3",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "name": "Defeat Bardo",
+                "visibility_rules": ["shuffle_trainer_defeats"],
+                "chest_unopened_img": "images/trainers/Cooltrainer_m.png",
+                "chest_opened_img": "images/trainers/Cooltrainer_m_g.png"
+              },
+              {
+                "name": "Unlock Cipher Lab",
+                "visibility_rules": ["randomize_travel_locations"],
+                "chest_unopened_img": "images/items/.png",
+                "chest_opened_img": "images/items/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 1",
+                "x": 208,
+                "y": 767
+              }
+            ]
+          },
+          {
+            "name": "Defeat Robell",
+            "access_rules": "",
+            "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Navigator.png",
+                "chest_opened_img": "images/trainers/Navigator_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 1",
+                "x": 209,
+                "y": 643
+              }
+            ]
+          },
+          {
+            "name": "Defeat Kabin",
+            "access_rules": "",
+            "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Old_man.png",
+                "chest_opened_img": "images/trainers/Old_man_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 1",
+                "x": 316,
+                "y": 550
+              }
+            ]
+          },
+          {
+            "name": "Defeat Ezella",
+            "access_rules": "",
+            "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Matron.png",
+                "chest_opened_img": "images/trainers/Matron_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 1",
+                "x": 213,
+                "y": 459
+              }
+            ]
+          },
+          {
+            "name": "Defeat Horbit",
+            "access_rules": "",
+            "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Casual_Dude.png",
+                "chest_opened_img": "images/trainers/Casual_Dude_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 1",
+                "x": 108,
+                "y": 387
+              }
+            ]
+          },
+          {
+            "name": "Defeat Eloff",
+            "access_rules": "",
+            "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Beauty.png",
+                "chest_opened_img": "images/trainers/Beauty_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 1",
+                "x": 206,
+                "y": 305
+              }
+            ]
+          },
+          {
+            "name": "Defeat Dibsin",
+            "access_rules": "",
+            "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Cooltrainer_f.png",
+                "chest_opened_img": "images/trainers/Cooltrainer_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 1",
+                "x": 207,
+                "y": 217
+              }
+            ]
+          },
+          {
+            "name": "Defeat Vander",
+            "access_rules": "",
+            "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Vander.png",
+                "chest_opened_img": "images/trainers/Vander_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 1",
+                "x": 209,
+                "y": 137
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "11-20",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+        "children": [
+          {
+            "name": "Defeat Dabil",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Chaser_m.png",
+                "chest_opened_img": "images/trainers/Chaser_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 11",
+                "x": 226,
+                "y": 940
+              }
+            ]
+          },
+          {
+            "name": "Defeat Cidlor",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Chaser_f.png",
+                "chest_opened_img": "images/trainers/Chaser_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 11",
+                "x": 348,
+                "y": 842
+              }
+            ]
+          },
+          {
+            "name": "Defeat Gratin",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Sailor.png",
+                "chest_opened_img": "images/trainers/Sailor_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 11",
+                "x": 235,
+                "y": 738
+              }
+            ]
+          },
+          {
+            "name": "Defeat Hardig",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Researcher.png",
+                "chest_opened_img": "images/trainers/Researcher_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 11",
+                "x": 235,
+                "y": 620
+              }
+            ]
+          },
+          {
+            "name": "Defeat Goling",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Hunter.png",
+                "chest_opened_img": "images/trainers/Hunter_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 11",
+                "x": 340,
+                "y": 528
+              }
+            ]
+          },
+          {
+            "name": "Defeat Jeol",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Chaser_f.png",
+                "chest_opened_img": "images/trainers/Chaser_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 11",
+                "x": 238,
+                "y": 440
+              }
+            ]
+          },
+          {
+            "name": "Defeat Echart",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Rider.png",
+                "chest_opened_img": "images/trainers/Rider_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 11",
+                "x": 133,
+                "y": 372
+              }
+            ]
+          },
+          {
+            "name": "Defeat Delf",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Bodybuilder_f.png",
+                "chest_opened_img": "images/trainers/Bodybuilder_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 11",
+                "x": 230,
+                "y": 292
+              }
+            ]
+          },
+          {
+            "name": "Defeat Dolam",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Bodybuilder_m.png",
+                "chest_opened_img": "images/trainers/Bodybuilder_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 11",
+                "x": 230,
+                "y": 207
+              }
+            ]
+          },
+          {
+            "name": "Defeat Eldof",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Supertrainer_m.png",
+                "chest_opened_img": "images/trainers/Supertrainer_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 11",
+                "x": 230,
+                "y": 131
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "21-30",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+        "children": [
+          {
+            "name": "Defeat Grestly",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Sailor.png",
+                "chest_opened_img": "images/trainers/Sailor_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 21",
+                "x": 505,
+                "y": 940
+              }
+            ]
+          },
+          {
+            "name": "Defeat Folop",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Navigator.png",
+                "chest_opened_img": "images/trainers/Navigator_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 21",
+                "x": 597,
+                "y": 822
+              }
+            ]
+          },
+          {
+            "name": "Defeat Kwane",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Casual_Dude.png",
+                "chest_opened_img": "images/trainers/Casual_Dude_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 21",
+                "x": 424,
+                "y": 747
+              }
+            ]
+          },
+          {
+            "name": "Defeat Napol",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Casual_guy.png",
+                "chest_opened_img": "images/trainers/Casual_guy_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 21",
+                "x": 365,
+                "y": 650
+              }
+            ]
+          },
+          {
+            "name": "Defeat Koiyt",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Chaser_m.png",
+                "chest_opened_img": "images/trainers/Chaser_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 21",
+                "x": 447,
+                "y": 541
+              }
+            ]
+          },
+          {
+            "name": "Defeat Atill",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Rider.png",
+                "chest_opened_img": "images/trainers/Rider_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 21",
+                "x": 297,
+                "y": 483
+              }
+            ]
+          },
+          {
+            "name": "Defeat Metson",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Curmudgeon.png",
+                "chest_opened_img": "images/trainers/Curmudgeon_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 21",
+                "x": 148,
+                "y": 457
+              }
+            ]
+          },
+          {
+            "name": "Defeat Jespon",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/.png",
+                "chest_opened_img": "images/trainers/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 21",
+                "x": 228,
+                "y": 367
+              }
+            ]
+          },
+          {
+            "name": "Defeat Mopar",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Cooltrainer_m.png",
+                "chest_opened_img": "images/trainers/Cooltrainer_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 21",
+                "x": 195,
+                "y": 310
+              }
+            ]
+          },
+          {
+            "name": "Defeat Taria",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Taria.png",
+                "chest_opened_img": "images/trainers/Taria_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 21",
+                "x": 162,
+                "y": 257
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "31-40",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+        "children": [
+          {
+            "name": "Defeat Atles",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Chaser_f.png",
+                "chest_opened_img": "images/trainers/Chaser_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 31",
+                "x": 167,
+                "y": 855
+              }
+            ]
+          },
+          {
+            "name": "Defeat Niven",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Beauty.png",
+                "chest_opened_img": "images/trainers/Beauty_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 31",
+                "x": 340,
+                "y": 760
+              }
+            ]
+          },
+          {
+            "name": "Defeat Fopaw",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Chaser_f.png",
+                "chest_opened_img": "images/trainers/Chaser_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 31",
+                "x": 195,
+                "y": 635
+              }
+            ]
+          },
+          {
+            "name": "Defeat Petil",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Matron.png",
+                "chest_opened_img": "images/trainers/Matron_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 31",
+                "x": 205,
+                "y": 528
+              }
+            ]
+          },
+          {
+            "name": "Defeat Nevah",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Beauty.png",
+                "chest_opened_img": "images/trainers/Beauty_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 31",
+                "x": 340,
+                "y": 435
+              }
+            ]
+          },
+          {
+            "name": "Defeat Selor",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Bodybuilder_f.png",
+                "chest_opened_img": "images/trainers/Bodybuilder_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 31",
+                "x": 215,
+                "y": 345
+              }
+            ]
+          },
+          {
+            "name": "Defeat Pixen",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Supertrainer_f.png",
+                "chest_opened_img": "images/trainers/Supertrainer_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 31",
+                "x": 95,
+                "y": 290
+              }
+            ]
+          },
+          {
+            "name": "Defeat Edin",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Newscaster.png",
+                "chest_opened_img": "images/trainers/Newscaster_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 31",
+                "x": 215,
+                "y": 217
+              }
+            ]
+          },
+          {
+            "name": "Defeat Roze",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Cooltrainer_f.png",
+                "chest_opened_img": "images/trainers/Cooltrainer_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 31",
+                "x": 220,
+                "y": 157
+              }
+            ]
+          },
+          {
+            "name": "Defeat Boyden",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Boyden.png",
+                "chest_opened_img": "images/trainers/Boyden_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 31",
+                "x": 225,
+                "y": 103
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "41-50",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+        "children": [
+          {
+            "name": "Defeat Hombol",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Researcher.png",
+                "chest_opened_img": "images/trainers/Researcher_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 41",
+                "x": 192,
+                "y": 870
+              }
+            ]
+          },
+          {
+            "name": "Defeat Jiler",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Bodybuilder_f.png",
+                "chest_opened_img": "images/trainers/Bodybuilder_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 41",
+                "x": 360,
+                "y": 765
+              }
+            ]
+          },
+          {
+            "name": "Defeat Carlon",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Navigator.png",
+                "chest_opened_img": "images/trainers/Navigator_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 41",
+                "x": 204,
+                "y": 643
+              }
+            ]
+          },
+          {
+            "name": "Defeat Kuxor",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Chaser_m.png",
+                "chest_opened_img": "images/trainers/Chaser_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 41",
+                "x": 204,
+                "y": 533
+              }
+            ]
+          },
+          {
+            "name": "Defeat Lesk",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Hunter.png",
+                "chest_opened_img": "images/trainers/Hunter_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 41",
+                "x": 335,
+                "y": 434
+              }
+            ]
+          },
+          {
+            "name": "Defeat Mobid",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Rider.png",
+                "chest_opened_img": "images/trainers/Rider_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 41",
+                "x": 202,
+                "y": 345
+              }
+            ]
+          },
+          {
+            "name": "Defeat Blist",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Chaser_f.png",
+                "chest_opened_img": "images/trainers/Chaser_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 41",
+                "x": 75,
+                "y": 293
+              }
+            ]
+          },
+          {
+            "name": "Defeat Knook",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Sailor.png",
+                "chest_opened_img": "images/trainers/Sailor_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 41",
+                "x": 192,
+                "y": 217
+              }
+            ]
+          },
+          {
+            "name": "Defeat Burdon",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Casual_Dude.png",
+                "chest_opened_img": "images/trainers/Casual_Dude_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 41",
+                "x": 192,
+                "y": 157
+              }
+            ]
+          },
+          {
+            "name": "Defeat Calus",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Supertrainer_f.png",
+                "chest_opened_img": "images/trainers/Supertrainer_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 41",
+                "x": 192,
+                "y": 103
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "51-60",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+        "children": [
+          {
+            "name": "Defeat Doost",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Old_man.png",
+                "chest_opened_img": "images/trainers/Old_man_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 51",
+                "x": 190,
+                "y": 880
+              }
+            ]
+          },
+          {
+            "name": "Defeat Jimer",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Curmudgeon.png",
+                "chest_opened_img": "images/trainers/Curmudgeon_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 51",
+                "x": 348,
+                "y": 776
+              }
+            ]
+          },
+          {
+            "name": "Defeat Crex",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Matron.png",
+                "chest_opened_img": "images/trainers/Matron_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 51",
+                "x": 203,
+                "y": 657
+              }
+            ]
+          },
+          {
+            "name": "Defeat Feeply",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/.png",
+                "chest_opened_img": "images/trainers/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 51",
+                "x": 204,
+                "y": 542
+              }
+            ]
+          },
+          {
+            "name": "Defeat Jacen",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/.png",
+                "chest_opened_img": "images/trainers/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 51",
+                "x": 328,
+                "y": 445
+              }
+            ]
+          },
+          {
+            "name": "Defeat Dibel",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/.png",
+                "chest_opened_img": "images/trainers/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 51",
+                "x": 203,
+                "y": 354
+              }
+            ]
+          },
+          {
+            "name": "Defeat Kevy",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Bodybuilder_m.png",
+                "chest_opened_img": "images/trainers/Bodybuilder_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 51",
+                "x": 82,
+                "y": 298
+              }
+            ]
+          },
+          {
+            "name": "Defeat Gabsen",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Cooltrainer_f.png",
+                "chest_opened_img": "images/trainers/Cooltrainer_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 51",
+                "x": 195,
+                "y": 220
+              }
+            ]
+          },
+          {
+            "name": "Defeat Degin",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Cooltrainer_m.png",
+                "chest_opened_img": "images/trainers/Cooltrainer_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 51",
+                "x": 195,
+                "y": 155
+              }
+            ]
+          },
+          {
+            "name": "Defeat Hampy",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Supertrainer_m.png",
+                "chest_opened_img": "images/trainers/Supertrainer_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 51",
+                "x": 300,
+                "y": 113
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "61-70",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+        "children": [
+          {
+            "name": "Defeat Melin",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Chaser_f.png",
+                "chest_opened_img": "images/trainers/Chaser_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 61",
+                "x": 175,
+                "y": 790
+              }
+            ]
+          },
+          {
+            "name": "Defeat Gibson",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/.png",
+                "chest_opened_img": "images/trainers/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 61",
+                "x": 193,
+                "y": 686
+              }
+            ]
+          },
+          {
+            "name": "Defeat Idlon",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Newscaster.png",
+                "chest_opened_img": "images/trainers/Newscaster_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 61",
+                "x": 202,
+                "y": 574
+              }
+            ]
+          },
+          {
+            "name": "Defeat Hobol",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/.png",
+                "chest_opened_img": "images/trainers/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 61",
+                "x": 327,
+                "y": 517
+              }
+            ]
+          },
+          {
+            "name": "Defeat Keller",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/.png",
+                "chest_opened_img": "images/trainers/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 61",
+                "x": 328,
+                "y": 426
+              }
+            ]
+          },
+          {
+            "name": "Defeat Ebilo",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Old_man.png",
+                "chest_opened_img": "images/trainers/Old_man_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 61",
+                "x": 427,
+                "y": 359
+              }
+            ]
+          },
+          {
+            "name": "Defeat Tulon",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Matron.png",
+                "chest_opened_img": "images/trainers/Matron_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 61",
+                "x": 424,
+                "y": 305
+              }
+            ]
+          },
+          {
+            "name": "Defeat Okor",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Curmudgeon.png",
+                "chest_opened_img": "images/trainers/Curmudgeon_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 61",
+                "x": 510,
+                "y": 249
+              }
+            ]
+          },
+          {
+            "name": "Defeat Ebzor",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Casual_guy.png",
+                "chest_opened_img": "images/trainers/Casual_guy_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 61",
+                "x": 502,
+                "y": 203
+              }
+            ]
+          },
+          {
+            "name": "Defeat Nocom",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Boyden.png",
+                "chest_opened_img": "images/trainers/Boyden_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 61",
+                "x": 490,
+                "y": 167
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "71-80",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+        "children": [
+          {
+            "name": "Defeat Ordes",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Sailor.png",
+                "chest_opened_img": "images/trainers/Sailor_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 71",
+                "x": 65,
+                "y": 485
+              }
+            ]
+          },
+          {
+            "name": "Defeat Ovun",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Navigator.png",
+                "chest_opened_img": "images/trainers/Navigator_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 71",
+                "x": 187,
+                "y": 425
+              }
+            ]
+          },
+          {
+            "name": "Defeat Adeson",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Bodybuilder_f.png",
+                "chest_opened_img": "images/trainers/Bodybuilder_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 71",
+                "x": 286,
+                "y": 351
+              }
+            ]
+          },
+          {
+            "name": "Defeat Robit",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Bodybuilder_m.png",
+                "chest_opened_img": "images/trainers/Bodybuilder_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 71",
+                "x": 425,
+                "y": 346
+              }
+            ]
+          },
+          {
+            "name": "Defeat Noxon",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Cooltrainer_m.png",
+                "chest_opened_img": "images/trainers/Cooltrainer_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 71",
+                "x": 514,
+                "y": 277
+              }
+            ]
+          },
+          {
+            "name": "Defeat Releo",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Worker.png",
+                "chest_opened_img": "images/trainers/Worker_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 71",
+                "x": 638,
+                "y": 249
+              }
+            ]
+          },
+          {
+            "name": "Defeat Cark",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Casual_Dude.png",
+                "chest_opened_img": "images/trainers/Casual_Dude_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 71",
+                "x": 720,
+                "y": 205
+              }
+            ]
+          },
+          {
+            "name": "Defeat Minot",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Beauty.png",
+                "chest_opened_img": "images/trainers/Beauty_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 71",
+                "x": 840,
+                "y": 178
+              }
+            ]
+          },
+          {
+            "name": "Defeat Lask",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Cooltrainer_m.png",
+                "chest_opened_img": "images/trainers/Cooltrainer_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 71",
+                "x": 913,
+                "y": 140
+              }
+            ]
+          },
+          {
+            "name": "Defeat Naday",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Supertrainer_f.png",
+                "chest_opened_img": "images/trainers/Supertrainer_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 71",
+                "x": 977,
+                "y": 103
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "81-90",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+        "children": [
+          {
+            "name": "Defeat Hols",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Sailor.png",
+                "chest_opened_img": "images/trainers/Sailor_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 81",
+                "x": 80,
+                "y": 357
+              }
+            ]
+          },
+          {
+            "name": "Defeat Albah",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Bodybuilder_m.png",
+                "chest_opened_img": "images/trainers/Bodybuilder_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 81",
+                "x": 202,
+                "y": 317
+              }
+            ]
+          },
+          {
+            "name": "Defeat Ginner",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Casual_guy.png",
+                "chest_opened_img": "images/trainers/Casual_guy_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 81",
+                "x": 302,
+                "y": 256
+              }
+            ]
+          },
+          {
+            "name": "Defeat Copin",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/.png",
+                "chest_opened_img": "images/trainers/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 81",
+                "x": 429,
+                "y": 259
+              }
+            ]
+          },
+          {
+            "name": "Defeat Koren",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Bodybuilder_f.png",
+                "chest_opened_img": "images/trainers/Bodybuilder_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 81",
+                "x": 519,
+                "y": 204
+              }
+            ]
+          },
+          {
+            "name": "Defeat Laks",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Casual_Dude.png",
+                "chest_opened_img": "images/trainers/Casual_Dude_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 81",
+                "x": 635,
+                "y": 181
+              }
+            ]
+          },
+          {
+            "name": "Defeat Kippen",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/.png",
+                "chest_opened_img": "images/trainers/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 81",
+                "x": 718,
+                "y": 151
+              }
+            ]
+          },
+          {
+            "name": "Defeat Nasom",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/.png",
+                "chest_opened_img": "images/trainers/_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 81",
+                "x": 833,
+                "y": 131
+              }
+            ]
+          },
+          {
+            "name": "Defeat Nimblis",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Supertrainer_f.png",
+                "chest_opened_img": "images/trainers/Supertrainer_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 81",
+                "x": 905,
+                "y": 105
+              }
+            ]
+          },
+          {
+            "name": "Defeat Ragen",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Supertrainer_m.png",
+                "chest_opened_img": "images/trainers/Supertrainer_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 81",
+                "x": 969,
+                "y": 78
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "91-100",
+        "access_rules": [
+          ""
+        ],
+        "visibility_rules": ["mt_battle_trainers, shuffle_trainer_defeats"],
+        "children": [
+          {
+            "name": "Defeat Newin",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Researcher.png",
+                "chest_opened_img": "images/trainers/Researcher_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 91",
+                "x": 82,
+                "y": 383
+              }
+            ]
+          },
+          {
+            "name": "Defeat Roben",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Old_man.png",
+                "chest_opened_img": "images/trainers/Old_man_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 91",
+                "x": 211,
+                "y": 326
+              }
+            ]
+          },
+          {
+            "name": "Defeat Rillian",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Chaser_f.png",
+                "chest_opened_img": "images/trainers/Chaser_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 91",
+                "x": 315,
+                "y": 254
+              }
+            ]
+          },
+          {
+            "name": "Defeat Solog",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Bodybuilder_m.png",
+                "chest_opened_img": "images/trainers/Bodybuilder_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 91",
+                "x": 460,
+                "y": 252
+              }
+            ]
+          },
+          {
+            "name": "Defeat Saken",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Worker.png",
+                "chest_opened_img": "images/trainers/Worker_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 91",
+                "x": 548,
+                "y": 186
+              }
+            ]
+          },
+          {
+            "name": "Defeat Sivil",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Newscaster.png",
+                "chest_opened_img": "images/trainers/Newscaster_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 91",
+                "x": 678,
+                "y": 157
+              }
+            ]
+          },
+          {
+            "name": "Defeat Flostin",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Cooltrainer_f.png",
+                "chest_opened_img": "images/trainers/Cooltrainer_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 91",
+                "x": 758,
+                "y": 117
+              }
+            ]
+          },
+          {
+            "name": "Defeat Tetil",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Cooltrainer_m.png",
+                "chest_opened_img": "images/trainers/Cooltrainer_m_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 91",
+                "x": 881,
+                "y": 92
+              }
+            ]
+          },
+          {
+            "name": "Defeat Libal",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Supertrainer_f.png",
+                "chest_opened_img": "images/trainers/Supertrainer_f_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 91",
+                "x": 950,
+                "y": 57
+              }
+            ]
+          },
+          {
+            "name": "Defeat Battlus",
+            "access_rules": "",
+            "visibility_rules": [],
+            "sections": [
+              {
+                "chest_unopened_img": "images/trainers/Battlus.png",
+                "chest_opened_img": "images/trainers/Battlus_g.png"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "mt. battle 100",
+                "x": 530,
+                "y": 450
               }
             ]
           }

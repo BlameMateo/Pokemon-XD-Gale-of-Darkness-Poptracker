@@ -8,7 +8,7 @@
   {
     "name": "Music Disc",
     "codes": "music disc",
-    "img": "images/items/key_item.png",
+    "img": "images/items/music disc.png",
     "type": "toggle"
   },
   {
@@ -20,7 +20,7 @@
   {
     "name": "System Lever",
     "codes": "system lever",
-    "img": "images/items/key_item.png",
+    "img": "images/items/system lever.png",
     "type": "toggle"
   },
   {
@@ -32,7 +32,7 @@
   {
     "name": "Scooter Upgrade",
     "codes": "scooter upgrade",
-    "img": "images/items/key_item.png",
+    "img": "images/items/scooter upgrade.png",
     "type": "toggle"
   },
   {
@@ -148,11 +148,6 @@
   },
   // Settings
   {
-    "name": "Trainer Defeat Mode",
-    "type": "toggle",
-    "codes": "trainer_defeat_mode"
-  },
-  {
     "name": "Randomize Travel Locations",
     "type": "toggle",
     "codes": "randomize_travel_locations"
@@ -173,11 +168,6 @@
     "codes": "robo_kyogre_parts_unlock_citadark"
   },
   {
-    "name": "Map Trainer Levels",
-    "type": "toggle",
-    "codes": "map_trainer_levels"
-  },
-  {
     "name": "Shuffle Trainer Defeats",
     "type": "toggle",
     "codes": "shuffle_trainer_defeats"
@@ -187,30 +177,53 @@
     "type": "toggle",
     "codes": "citadark_admins_only"
   },
-
   {
-    "name": "Roomsanity",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": true,
-    "stages": [
-      {
-        "codes": "roomsanity",
-        "inherit_codes": false,
-        "img": "images/items/q.png"
-      },
-      {
-        "codes": "roomsanity_on",
-        "inherit_codes": false,
-        "img": "images/items/roomsanity_on.png"
-      },
-      {
-        "codes": "roomsanity_off",
-        "inherit_codes": false,
-        "img": "images/items/roomsanity_off.png"
-      }
-    ]
+    "name": "Goal Greevil",
+    "type": "toggle",
+    "codes": "goal_greevil"
   },
+  {
+    "name": "Goal Mt. Battle",
+    "type": "toggle",
+    "codes": "goal_mtbattle"
+  },
+  {
+    "name": "Trainer Mode Cumulative",
+    "type": "toggle",
+    "codes": "trainer_mode_cumulative"
+  },
+  {
+    "name": "Trainer Mode Unique",
+    "type": "toggle",
+    "codes": "trainer_mode_unique"
+  },
+  {
+    "name": "Mt Battle Trainers",
+    "type": "toggle",
+    "codes": "mt_battle_trainers"
+  },
+  {
+    "name": "Key Item Shuffle",
+    "type": "toggle",
+    "codes": "key_item_shuffle"
+  },
+  {
+    "name": "Shuffle Scooter Upgrade",
+    "type": "toggle",
+    "codes": "shuffle_scooter_upgrade"
+  },
+  {
+    "name": "Poke Spot Catch Checks",
+    "type": "toggle",
+    "codes": "pokespot_catch_checks"
+  },
+
+
+
+
+
+
+
   {
     "name": "Tab Switcher",
     "type": "progressive",

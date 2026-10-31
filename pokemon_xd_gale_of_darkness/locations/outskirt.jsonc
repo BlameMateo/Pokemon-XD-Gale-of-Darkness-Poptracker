@@ -18,8 +18,8 @@
             "sections": [
               {
                 "name": "Defeat Willie",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png",
+                "chest_unopened_img": "images/trainers/Rider.png",
+                "chest_opened_img": "images/trainers/Rider_g.png",
                 "visibility_rules": "shuffle_trainer_defeats"
               },
               {

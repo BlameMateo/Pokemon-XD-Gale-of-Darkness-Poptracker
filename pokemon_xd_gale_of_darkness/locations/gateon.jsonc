@@ -17,8 +17,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Casual_guy.png",
+                "chest_opened_img": "images/trainers/Casual_guy_g.png"
               }
             ],
             "map_locations": [
@@ -53,8 +53,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Navigator.png",
+                "chest_opened_img": "images/trainers/Navigator_g.png"
               }
             ],
             "map_locations": [
@@ -123,8 +123,8 @@
               },
               {
                 "name": "Defeat Kilen",
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png",
+                "chest_unopened_img": "images/trainers/Bodybuilder_f.png",
+                "chest_opened_img": "images/trainers/Bodybuilder_f_g.png",
                 "visibility_rules": "shuffle_trainer_defeats"
               }
             ],
@@ -142,8 +142,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Sailor.png",
+                "chest_opened_img": "images/trainers/Sailor_g.png"
               }
             ],
             "map_locations": [
@@ -160,8 +160,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Chaser_f.png",
+                "chest_opened_img": "images/trainers/Chaser_f_g.png"
               }
             ],
             "map_locations": [

@@ -415,6 +415,248 @@
                               }
                             ]
                           }
+                        },
+                        {
+                          "title": "1-10",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mt. battle 1"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "11-20",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mt. battle 11"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "21-30",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mt. battle 21"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "31-40",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mt. battle 31"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "41-50",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mt. battle 41"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "51-60",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mt. battle 51"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "61-70",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mt. battle 61"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "71-80",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mt. battle 71"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "81-90",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mt. battle 81"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "91-99",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mt. battle 91"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "title": "100",
+                          "icon": "",
+                          "content": {
+                            "type": "array",
+                            "content": [
+                              {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "style": "wrap",
+                                "content": [
+                                  {
+                                    "type": "map",
+                                    "maps": [
+                                      "mt. battle 100"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
                         }
                       ]
                     }

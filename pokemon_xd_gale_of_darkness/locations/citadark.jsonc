@@ -17,8 +17,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Navigator.png",
+                "chest_opened_img": "images/trainers/Navigator_g.png"
               }
             ],
             "map_locations": [
@@ -35,8 +35,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -79,8 +79,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Chaser_m.png",
+                "chest_opened_img": "images/trainers/Chaser_m_g.png"
               }
             ],
             "map_locations": [
@@ -97,8 +97,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_f.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_f_g.png"
               }
             ],
             "map_locations": [
@@ -133,8 +133,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Sailor.png",
+                "chest_opened_img": "images/trainers/Sailor_g.png"
               }
             ],
             "map_locations": [
@@ -151,8 +151,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Hunter.png",
+                "chest_opened_img": "images/trainers/Hunter_g.png"
               }
             ],
             "map_locations": [
@@ -169,8 +169,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Lovrina.png",
+                "chest_opened_img": "images/trainers/Lovrina_g.png"
               }
             ],
             "map_locations": [
@@ -195,8 +195,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_f.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_f_g.png"
               }
             ],
             "map_locations": [
@@ -231,8 +231,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -285,8 +285,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -347,8 +347,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Exol.png",
+                "chest_opened_img": "images/trainers/Exol_g.png"
               }
             ],
             "map_locations": [
@@ -373,8 +373,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_f.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_f_g.png"
               }
             ],
             "map_locations": [
@@ -399,8 +399,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -417,8 +417,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_f.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_f_g.png"
               }
             ],
             "map_locations": [
@@ -471,8 +471,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Chaser_f.png",
+                "chest_opened_img": "images/trainers/Chaser_f_g.png"
               }
             ],
             "map_locations": [
@@ -489,8 +489,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Hunter.png",
+                "chest_opened_img": "images/trainers/Hunter_g.png"
               }
             ],
             "map_locations": [
@@ -507,8 +507,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Rider.png",
+                "chest_opened_img": "images/trainers/Rider_g.png"
               }
             ],
             "map_locations": [
@@ -525,8 +525,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -587,8 +587,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Exol.png",
+                "chest_opened_img": "images/trainers/Exol_g.png"
               }
             ],
             "map_locations": [
@@ -605,8 +605,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Exol.png",
+                "chest_opened_img": "images/trainers/Exol_g.png"
               }
             ],
             "map_locations": [
@@ -649,8 +649,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_f.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_f_g.png"
               }
             ],
             "map_locations": [
@@ -685,8 +685,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Exol.png",
+                "chest_opened_img": "images/trainers/Exol_g.png"
               }
             ],
             "map_locations": [
@@ -773,8 +773,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -827,8 +827,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_f.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_f_g.png"
               }
             ],
             "map_locations": [
@@ -853,8 +853,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Snattle.png",
+                "chest_opened_img": "images/trainers/Snattle_g.png"
               }
             ],
             "map_locations": [
@@ -871,8 +871,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Ardos.png",
+                "chest_opened_img": "images/trainers/Ardos_g.png"
               }
             ],
             "map_locations": [
@@ -889,8 +889,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Gorigan.png",
+                "chest_opened_img": "images/trainers/Gorigan_g.png"
               }
             ],
             "map_locations": [
@@ -915,8 +915,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -941,8 +941,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Eldes.png",
+                "chest_opened_img": "images/trainers/Eldes_g.png"
               }
             ],
             "map_locations": [
@@ -977,8 +977,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Researcher.png",
+                "chest_opened_img": "images/trainers/Researcher_g.png"
               }
             ],
             "map_locations": [
@@ -995,8 +995,8 @@
             "visibility_rules": ["$show_citadark_trainers"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Researcher.png",
+                "chest_opened_img": "images/trainers/Researcher_g.png"
               }
             ],
             "map_locations": [
@@ -1021,8 +1021,8 @@
             "visibility_rules": [],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Greevil.png",
+                "chest_opened_img": "images/trainers/Greevil_g.png"
               }
             ],
             "map_locations": [

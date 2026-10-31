@@ -182,16 +182,24 @@ function onClear(slot_data)
 	Tracker:FindObjectForCode("tab_switch").CurrentStage = 0
 	Tracker:FindObjectForCode("room_switch").CurrentStage = 1
 
-	Tracker:FindObjectForCode("shuffle_trainer_defeats").CurrentStage = 0
+	Tracker:FindObjectForCode("shuffle_trainer_defeats").CurrentStage = 1
 	Tracker:FindObjectForCode("citadark_admins_only").CurrentStage = 0
-	Tracker:FindObjectForCode("trainer_defeat_mode").CurrentStage = 2
 	Tracker:FindObjectForCode("randomize_travel_locations").CurrentStage = 0
 	Tracker:FindObjectForCode("randomize_shops").CurrentStage = 0
 	Tracker:FindObjectForCode("robo_kyogre_parts_unlock_citadark").CurrentStage = 0
-	Tracker:FindObjectForCode("map_trainer_levels").CurrentStage = 0
 
+	-- print("", type(slot_data[""]), slot_data[""])
 
-	
+	local goal = slot_data and slot_data["goal"]
+
+	if goal == 0 then
+        Tracker:FindObjectForCode("goal_greevil").Active = true
+	elseif goal == 1 then
+		Tracker:FindObjectForCode("goal_mtbattle").Active = true
+	else
+		print("TBD goal:", goal)
+    end
+
     if slot_data["shuffle_trainer_defeats"] then
         if slot_data["shuffle_trainer_defeats"] == 1 then
             Tracker:FindObjectForCode("shuffle_trainer_defeats").Active = true
@@ -203,22 +211,62 @@ function onClear(slot_data)
             Tracker:FindObjectForCode("citadark_admins_only").Active = true
         end
     end
-	
-	if slot_data["trainer_defeat_mode"] then
-        if slot_data["trainer_defeat_mode"] == true then
-            Tracker:FindObjectForCode("trainer_defeat_mode").CurrentStage = 1
+
+	if slot_data["exclude_mt_battle_trainers"] then
+        if slot_data["exclude_mt_battle_trainers"] == 0 then
+            Tracker:FindObjectForCode("mt_battle_trainers").Active = true
         end
     end
+	
+	local trainermode = slot_data and slot_data["trainer_defeat_mode"]
 
-	if slot_data["randomize_travel_locations"] then
-    	if slot_data["randomize_travel_locations"] == 1 then
-        	Tracker:FindObjectForCode("randomize_travel_locations").Active = true
+	if trainermode == 0 then
+            Tracker:FindObjectForCode("trainer_mode_cumulative").Active = true
+	else
+			Tracker:FindObjectForCode("trainer_mode_unique").Active = true
+    end
+
+	if slot_data["key_item_shuffle"] then
+    	if slot_data["key_item_shuffle"] == 1 then
+        	Tracker:FindObjectForCode("key_item_shuffle").Active = true
+    	end
+	end
+
+	local keyitem_on = slot_data["key_item_shuffle"] == 1
+
+	if not keyitem_on then
+    	local KEYITEM_DEFAULTS = {
+			"machine part",
+        	"music disc",
+        	"mayor's note",
+        	"system lever",
+        	"data rom & id card",
+    	}
+    	for _, code in ipairs(KEYITEM_DEFAULTS) do
+        	local obj = Tracker:FindObjectForCode(code)
+        	if obj then
+            	obj.Active = true
+        	end
+    	end
+	end
+
+	if slot_data["shuffle_scooter_upgrade"] then
+    	if slot_data["shuffle_scooter_upgrade"] == 1 then
+        	Tracker:FindObjectForCode("shuffle_scooter_upgrade").Active = true
+		else
+			Tracker:FindObjectForCode("scooter upgrade").Active = true
     	end
 	end
 
 	if slot_data["robo_kyogre_parts_unlock_citadark"] then
     	if slot_data["robo_kyogre_parts_unlock_citadark"] == 1 then
         	Tracker:FindObjectForCode("robo_kyogre_parts_unlock_citadark").Active = true
+    	end
+	end
+
+	if slot_data["randomize_travel_locations"] then
+    	if slot_data["randomize_travel_locations"] == 1 then
+        	Tracker:FindObjectForCode("randomize_travel_locations").Active = true
     	end
 	end
 
@@ -245,14 +293,26 @@ function onClear(slot_data)
     	end
 	end
 
+	if slot_data["start_with_poke_spots"] then
+    	if slot_data["start_with_poke_spots"] == 1 and travel_on then
+        	Tracker:FindObjectForCode("travel poke spots").Active = true
+    	end
+	end
+
+	if slot_data["pokespot_catch_checks"] then
+    	if slot_data["pokespot_catch_checks"] == 1 and travel_on then
+        	Tracker:FindObjectForCode("pokespot_catch_checks").Active = true
+    	end
+	end
+
 	if slot_data["randomize_shops"] then
-    	if slot_data["randomize_shops"] == true or slot_data["randomize_shops"] == 1 then
+    	if slot_data["randomize_shops"] == 1 then
         	Tracker:FindObjectForCode("randomize_shops").Active = true
     	end
 	end
 
 	if slot_data["agate_village_pit_stop"] then
-    	if slot_data["agate_village_pit_stop"] == true or slot_data["agate_village_pit_stop"] == 1 then
+    	if slot_data["agate_village_pit_stop"] == 1 then
         	Tracker:FindObjectForCode("agate_village_pit_stop").Active = true
     	end
 	end
@@ -261,18 +321,6 @@ function onClear(slot_data)
     	ROBO_KYOGRE_REQUIRED = tonumber(slot_data["robo_kyogre_parts_required"])
 	end
 	print("robo kyogre required:", ROBO_KYOGRE_REQUIRED)
-
-	if slot_data["map_trainer_levels"] then
-    	if slot_data["map_trainer_levels"] == true or slot_data["map_trainer_levels"] == 1 then
-        	Tracker:FindObjectForCode("map_trainer_levels").Active = true
-    	end
-	end
-
-	if slot_data["map_trainer_levels"] then
-        if slot_data["map_trainer_levels"] == true or slot_data["map_trainer_levels"] == 1 then
-            Tracker:FindObjectForCode("map_trainer_levels").Active = true
-        end
-    end
 
     PLACE_TO_ITEM = {
         ["GATEON PORT"]         = "travel gateon port",
@@ -295,7 +343,7 @@ function onClear(slot_data)
     end
 
 	if slot_data["map_trainer_levels"] then
-        if slot_data["map_trainer_levels"] == true or slot_data["map_trainer_levels"] == 1 then
+        if slot_data["map_trainer_levels"] == 1 then
 			if levels then
 			for place, level in pairs(levels) do
 					local code = PLACE_TO_ITEM[place]

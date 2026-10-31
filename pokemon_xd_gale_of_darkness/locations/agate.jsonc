@@ -95,8 +95,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Matron.png",
+                "chest_opened_img": "images/trainers/Matron_g.png"
               }
             ],
             "map_locations": [
@@ -113,8 +113,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Bodybuilder_m.png",
+                "chest_opened_img": "images/trainers/Bodybuilder_m_g.png"
               }
             ],
             "map_locations": [
@@ -131,8 +131,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Cooltrainer_f.png",
+                "chest_opened_img": "images/trainers/Cooltrainer_f_g.png"
               }
             ],
             "map_locations": [
@@ -149,8 +149,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Rider.png",
+                "chest_opened_img": "images/trainers/Rider_g.png"
               }
             ],
             "map_locations": [
@@ -285,8 +285,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Cooltrainer_m.png",
+                "chest_opened_img": "images/trainers/Cooltrainer_m_g.png"
               }
             ],
             "map_locations": [
@@ -321,8 +321,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Matron.png",
+                "chest_opened_img": "images/trainers/Matron_g.png"
               }
             ],
             "map_locations": [
@@ -375,8 +375,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/chest.png",
-                "chest_opened_img": "images/items/chest_g.png"
+                "chest_unopened_img": "images/trainers/Eagun.png",
+                "chest_opened_img": "images/trainers/Eagun_g.png"
               }
             ],
             "map_locations": [

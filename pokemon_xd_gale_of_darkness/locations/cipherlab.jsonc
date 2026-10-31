@@ -18,38 +18,38 @@
             "sections": [
               {
                 "name": "Defeat Blusix",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png",
+                "chest_unopened_img": "images/trainers/Blusix.png",
+                "chest_opened_img": "images/trainers/Blusix_g.png",
                 "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Browsix",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png",
+                "chest_unopened_img": "images/trainers/Browsix.png",
+                "chest_opened_img": "images/trainers/Browsix_g.png",
                 "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Greesix",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png",
+                "chest_unopened_img": "images/trainers/Greesix.png",
+                "chest_opened_img": "images/trainers/Greesix_g.png",
                 "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Purpsix",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png",
+                "chest_unopened_img": "images/trainers/Purpsix.png",
+                "chest_opened_img": "images/trainers/Purpsix_g.png",
                 "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Resix",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png",
+                "chest_unopened_img": "images/trainers/Resix.png",
+                "chest_opened_img": "images/trainers/Resix_g.png",
                 "visibility_rules": "shuffle_trainer_defeats"
               },
               {
                 "name": "Defeat Yellosix",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png",
+                "chest_unopened_img": "images/trainers/Yellosix.png",
+                "chest_opened_img": "images/trainers/Yellosix_g.png",
                 "visibility_rules": "shuffle_trainer_defeats"
               }
             ],
@@ -119,8 +119,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/.png",
-                "chest_opened_img": "images/items/_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_f.png",
+                "chest_opened_img": "images/items/Cipher_Peon_f_g.png"
               }
             ],
             "map_locations": [
@@ -145,8 +145,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_f.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_f_g.png"
               }
             ],
             "map_locations": [
@@ -163,8 +163,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Researcher.png",
+                "chest_opened_img": "images/trainers/Researcher_g.png"
               }
             ],
             "map_locations": [
@@ -181,8 +181,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -217,8 +217,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -235,8 +235,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_f.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_f_g.png"
               }
             ],
             "map_locations": [
@@ -271,8 +271,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Researcher.png",
+                "chest_opened_img": "images/trainers/Researcher_g.png"
               }
             ],
             "map_locations": [
@@ -325,8 +325,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Lovrina.png",
+                "chest_opened_img": "images/trainers/Lovrina_g.png"
               }
             ],
             "map_locations": [
@@ -369,8 +369,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -431,8 +431,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Researcher.png",
+                "chest_opened_img": "images/trainers/Researcher_g.png"
               }
             ],
             "map_locations": [
@@ -449,8 +449,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_f.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_f_g.png"
               }
             ],
             "map_locations": [
@@ -485,8 +485,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_m.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_m_g.png"
               }
             ],
             "map_locations": [
@@ -503,8 +503,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Researcher.png",
+                "chest_opened_img": "images/trainers/Researcher_g.png"
               }
             ],
             "map_locations": [
@@ -539,8 +539,8 @@
             "visibility_rules": ["shuffle_trainer_defeats"],
             "sections": [
               {
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Cipher_Peon_f.png",
+                "chest_opened_img": "images/trainers/Cipher_Peon_f_g.png"
               }
             ],
             "map_locations": [
@@ -576,13 +576,13 @@
             "sections": [
               {
                 "name": "Defeat Elrok",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Researcher.png",
+                "chest_opened_img": "images/trainers/Researcher_g.png"
               },
               {
                 "name": "Defeat Coffy",
-                "chest_unopened_img": "images/items/route.png",
-                "chest_opened_img": "images/items/route_g.png"
+                "chest_unopened_img": "images/trainers/Researcher.png",
+                "chest_opened_img": "images/trainers/Researcher_g.png"
               }
             ],
             "map_locations": [

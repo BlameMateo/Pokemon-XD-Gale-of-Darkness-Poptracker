@@ -157,7 +157,7 @@
         "children": [
           {
             "name": "Master Ball Chest",
-            "access_rules": "$has_robo_kyogre_parts",
+            "access_rules": "$can_access_citadark_isle",
             "visibility_rules": [],
             "sections": [
               {

@@ -2,8 +2,8 @@
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
   {
     "name": "overview",
-    "location_size": 15,
-    "location_border_thickness": 4,
+    "location_size": 25,
+    "location_border_thickness": 5,
     "img": "images/maps/Orre.png"
   },
   // Pokemon HQ Lab
@@ -94,6 +94,72 @@
     "location_size": 18,
     "location_border_thickness": 4,
     "img": "images/maps/Mt. Battle/Exterior.png"
+  },
+  {
+    "name": "mt. battle 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Mt. Battle/1-10.png"
+  },
+  {
+    "name": "mt. battle 11",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Mt. Battle/11-20.png"
+  },
+  {
+    "name": "mt. battle 21",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Mt. Battle/21-30.png"
+  },
+  {
+    "name": "mt. battle 31",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Mt. Battle/31-40.png"
+  },
+  {
+    "name": "mt. battle 41",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Mt. Battle/41-50.png"
+  },
+  {
+    "name": "mt. battle 51",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Mt. Battle/51-60.png"
+  },
+  {
+    "name": "mt. battle 61",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Mt. Battle/61-70.png"
+  },
+  {
+    "name": "mt. battle 71",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Mt. Battle/71-80.png"
+  },
+  {
+    "name": "mt. battle 81",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Mt. Battle/81-90.png"
+  },
+  {
+    "name": "mt. battle 91",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Mt. Battle/91-99.png"
+  },
+  {
+    "name": "mt. battle 100",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Mt. Battle/100.png"
   },
   // Cipher Lab
   {
